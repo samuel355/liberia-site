@@ -175,14 +175,14 @@
                                             </div>
                                             <div class="boxed-content-item">
                                                 <div class="comment-form custom-form contactform-wrap">
-                                                    <form class="comment-form" action="" name="contactform" id="contactform">
+                                                    <form class="comment-form" action="php/contact.php" name="contactform" id="contactform">
                                                         <fieldset>
                                                             <div id="message"></div>
                                                             <div class="row">
                                                                 <div class="col-sm-6">
                                                                     <div class="cs-intputwrap">
                                                                         <i class="fa-light fa-user"></i>
-                                                                        <input name="name" type="text" id="name" placeholder="Your full Name" onClick="this.select()" value="">
+                                                                        <input name="name" type="text" id="name" placeholder="Your name" onClick="this.select()" value="">
                                                                     </div>
                                                                 </div>
                                                                 <div class="col-sm-6">
@@ -394,7 +394,7 @@
     <script src="js/jquery.min.js"></script>
     <script src="js/plugins.js"></script>
     <script src="js/scripts.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAr0l1EpPCq36OX9AnrUq3k8ACfYclwMLI&libraries=places"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDwJSRi0zFjDemECmFl9JtRj1FY7TiTRRo&libraries=places"></script>
     <script src="js/map-single.js"></script>
 </body>
 

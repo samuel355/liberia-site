@@ -28,7 +28,7 @@
                     <div class="nav-holder main-menu">
                         <nav>
                             <ul class="no-list-style">
-                                <li>
+                                <li class="nav-active">
                                     <a href="/">Home</a>
                                 </li>
                                 <li>
@@ -37,7 +37,7 @@
                                 <li>
                                     <a href="/services">News</a>
                                 </li>
-                                <li class="nav-active">
+                                <li>
                                     <a href="/contact">Contact Us</a>
                                 </li>
                             </ul>
@@ -67,7 +67,7 @@
                                 <div class="hero-section-container">
                                     <div class="hero-section-title">
                                         <h2>Our Contacts</h2>
-                                        <h5>We are here to help you take the next step in your real estate journey. Reach out to us today!</h5>
+                                        <h5>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec tincidunt arcu, sit amet fermentum sem.</h5>
                                     </div>
                                 </div>
                             </div>
@@ -92,7 +92,7 @@
                 <div class="container">
                     <!--breadcrumbs-list-->
                     <div class="breadcrumbs-list bl_flat">
-                        <a href="/">Home</a><span>Contacts</span>
+                        <a href="#">Home</a><a href="#">Pages</a><span>Contacts</span>
                         <div class="breadcrumbs-list_dec"><i class="fa-thin fa-arrow-up"></i></div>
                     </div>
                     <!--breadcrumbs-list end-->
@@ -108,8 +108,8 @@
                                         <div class="contacts-card-item">
                                             <i class="fa-regular fa-location-dot"></i>
                                             <span>Our Location</span>
-                                            <p>Visit us at our conveniently located office in Liberia. Whether you want to discuss your property needs in person or explore our services, we are here to assist you.</p>
-                                            <a href="#">Liberia 27TH Street 1</a>
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt.</p>
+                                            <a href="#">USA 27TH Brooklyn NY</a>
                                         </div>
                                     </div>
                                     <!-- contacts-card-item end-->
@@ -118,9 +118,9 @@
                                         <div class="contacts-card-item">
                                             <i class="fa-regular fa-phone-rotary"></i>
                                             <span>Our Phone</span>
-                                            <p>Reach us directly on the available lines, and our team is ready to answer your questions or schedule a consultation.</p>
-                                            <a href="#"> +233 89 753 6422</a>
-                                            <a href="#"> +224 45 678 9222</a>
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt.</p>
+                                            <a href="#"> +489756412322</a>
+                                            <a href="#"> +123456789222</a>
                                         </div>
                                     </div>
                                     <!-- contacts-card-item end-->
@@ -129,8 +129,8 @@
                                         <div class="contacts-card-item">
                                             <i class="fa-regular fa-mailbox"></i>
                                             <span>Our Mail</span>
-                                            <p>For inquiries, feedback, or detailed information about our services, send us an email. We aim to respond promptly to all messages.</p>
-                                            <a href="#">info@contours.com</a>
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt.</p>
+                                            <a href="#">yourmail@domain.com</a>
                                         </div>
                                     </div>
                                     <!-- contacts-card-item end-->
@@ -144,6 +144,7 @@
                                         <div class="contact-wh_title">Working Hours</div>
                                         <div class="contact-wh">
                                             <div class="contact-wh-item">Monday - Friday:<strong> 8am - 6pm</strong></div>
+                                            <div class="contact-wh-item">Saturday - Sunday:<strong> 9am - 3pm</strong></div>
                                         </div>
                                     </div>
                                 </div>
@@ -175,14 +176,14 @@
                                             </div>
                                             <div class="boxed-content-item">
                                                 <div class="comment-form custom-form contactform-wrap">
-                                                    <form class="comment-form" action="" name="contactform" id="contactform">
+                                                    <form class="comment-form" action="php/contact.php" name="contactform" id="contactform">
                                                         <fieldset>
                                                             <div id="message"></div>
                                                             <div class="row">
                                                                 <div class="col-sm-6">
                                                                     <div class="cs-intputwrap">
                                                                         <i class="fa-light fa-user"></i>
-                                                                        <input name="name" type="text" id="name" placeholder="Your full Name" onClick="this.select()" value="">
+                                                                        <input name="name" type="text" id="name" placeholder="Your name" onClick="this.select()" value="">
                                                                     </div>
                                                                 </div>
                                                                 <div class="col-sm-6">
@@ -226,7 +227,93 @@
             <!--content  end-->
             <!--main-footer-->
             <div class="height-emulator"></div>
-            <?php include_once('includes/footer.php') ?>
+            <footer class="main-footer">
+                <div class="container">
+                    <div class="footer-inner">
+                        <div class="row">
+                            <!-- footer-widget -->
+                            <div class="col-lg-4">
+                                <div class="footer-widget">
+                                    <div class="footer-widget-title">Get Our Application</div>
+                                    <div class="footer-widget-content">
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eaque ipsa quae ab illo inventore veritatis et quasi architecto.</p>
+                                        <div class="api-links-wrap">
+                                            <a href="#" class="footer-widget-content-link"><span> On Apple Store</span><i class="fa-brands fa-apple"></i></a>
+                                            <a href="#" class="footer-widget-content-link"><span> On Google PLay</span><i class="fa-brands fa-google-play"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- footer-widget  end-->
+                            <!-- footer-widget -->
+                            <div class="col-lg-2">
+                                <div class="footer-widget">
+                                    <div class="footer-widget-title">Helpful links</div>
+                                    <div class="footer-widget-content">
+                                        <div class="footer-list footer-box  ">
+                                            <ul>
+                                                <li><a href="#">Our last News</a></li>
+                                                <li><a href="#">Pricing Plans</a></li>
+                                                <li><a href="#">Contacts</a></li>
+                                                <li><a href="#">Help Center</a></li>
+                                                <li><a href="#">Privacy Policy</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- footer-widget  end-->
+                            <!-- footer-widget -->
+                            <div class="col-lg-2">
+                                <div class="footer-widget">
+                                    <div class="footer-widget-title">Our Contacts</div>
+                                    <div class="footer-widget-content">
+                                        <div class="footer-list footer-box  ">
+                                            <ul class="footer-contacts  ">
+                                                <li><span>Mail :</span><a href="#" target="_blank">yourmail@domain.com</a></li>
+                                                <li> <span>Adress :</span><a href="#" target="_blank">USA 27TH Brooklyn NY</a></li>
+                                                <li><span>Phone :</span><a href="#">+2(111)123456789</a></li>
+                                            </ul>
+                                            <a href="contacts.html" class="footer-widget-content-link"><span>Get in Touch</span><i class="fa-solid fa-caret-right"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- footer-widget  end-->
+                            <!-- footer-widget -->
+                            <div class="col-lg-4">
+                                <div class="footer-widget">
+                                    <div class="footer-widget-title">Subscribe</div>
+                                    <div class="footer-widget-content">
+                                        <p>Want to be notified when we launch a new template or an udpate. Just sign up and we'll send you a notification by email.</p>
+                                        <form id="subscribe" class="subscribe-item">
+                                            <input class="enteremail" name="email" id="subscribe-email" placeholder="Your Email" spellcheck="false" type="text">
+                                            <button type="submit" id="subscribe-button" class="subscribe-button"><span>Send</span> </button>
+                                            <label for="subscribe-email" class="subscribe-message"></label>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- footer-widget  end-->
+                        </div>
+                        <!-- footer-widget-wrap end-->
+                    </div>
+                    <div class="footer-bottom">
+                        <a href="index.html" class="footer-home_link"><i class="fa-regular  fa-house"></i></a>
+                        <div class="copyright"> <span>&#169;Renstate 2024</span> . All rights reserved. </div>
+                        <div class="footer-social">
+                            <span class="footer-social-title">Follow Us</span>
+                            <div class="footer-social-wrap">
+                                <a href="#" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
+                                <a href="#" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+                                <a href="#" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+                                <a href="#" target="_blank"><i class="fa-brands fa-tiktok"></i></a>
+                                <a href="#" target="_blank"><i class="fa-brands fa-youtube"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
             <!--main-footer end-->
         </div>
         <!--warpper end-->
@@ -394,7 +481,7 @@
     <script src="js/jquery.min.js"></script>
     <script src="js/plugins.js"></script>
     <script src="js/scripts.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAr0l1EpPCq36OX9AnrUq3k8ACfYclwMLI&libraries=places"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDwJSRi0zFjDemECmFl9JtRj1FY7TiTRRo&libraries=places"></script>
     <script src="js/map-single.js"></script>
 </body>
 
