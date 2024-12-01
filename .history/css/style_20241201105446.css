@@ -4238,7 +4238,7 @@ nav li ul a:after {
     cursor: pointer;
     font-weight: 600;
     border: none;
-    height: 40px;
+    height: 60px;
     text-transform: uppercase;
     font-family: var(--secondary-font);
     border-radius: 10px;
