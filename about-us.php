@@ -124,19 +124,19 @@
                                             </p>
                                             <p>2. A robust portfolio of verified properties.</p>
                                             <p>3. Cutting-edge technology for property searches and management</p>
-                                            <a href="contacts.html" class="commentssubmit" style="margin-top: 30px">Get In Touch With Us</a>
+                                            <a href="/contact" class="commentssubmit" style="margin-top: 30px">Get In Touch With Us</a>
                                         </div>
                                         <div class="col-lg-6">
                                             <div class="about-img ab_i2">
                                                 <img src="images/all/16.jpg" class="respimg" alt="">
-                                                <div class="ab_img_wideo_wrap">
+                                                <!-- <div class="ab_img_wideo_wrap">
                                                     <div class="video-link" id="html5-videos" data-html="#video1"><i class="fas fa-play"></i><span> Play Story Video</span></div>
                                                 </div>
                                                 <div style="display:none;" id="video1" class="popup_video" data-videolink="video/2.mp4">
                                                     <video class="lg-video-object lg-html5" controls preload="none">
                                                         <source src="/" type="video/mp4">
                                                     </video>
-                                                </div>
+                                                </div> -->
                                             </div>
                                         </div>
                                     </div>
@@ -162,7 +162,7 @@
                                         <i class="fa-light fa-message-heart"></i>
                                         <div class="milestone-counter">
                                             <div class="stats animaper">
-                                                <div class="num" data-content="0" data-num="12168">0</div>
+                                                <div class="num" data-content="0" data-num="2168">0</div>
                                             </div>
                                         </div>
                                         <h6>Happy customers every year</h6>
@@ -175,7 +175,7 @@
                                         <i class="fa-light fa-wreath-laurel"></i>
                                         <div class="milestone-counter">
                                             <div class="stats animaper">
-                                                <div class="num" data-content="0" data-num="172">0</div>
+                                                <div class="num" data-content="0" data-num="12">0</div>
                                             </div>
                                         </div>
                                         <h6>Won Awards</h6>
@@ -188,7 +188,7 @@
                                         <i class="fa-light fa-house-building"></i>
                                         <div class="milestone-counter">
                                             <div class="stats animaper">
-                                                <div class="num" data-content="0" data-num="732">0</div>
+                                                <div class="num" data-content="0" data-num="132">0</div>
                                             </div>
                                         </div>
                                         <h6>New Properties Every Week</h6>
@@ -200,6 +200,13 @@
                         <!--boxed-container end-->
                     </div>
                     <!--container end-->
+
+                    <div class="container">
+                        <div class="section-title">
+                            <h4>Our Team</h4>
+                            <h2>Meet our Staff</h2>
+                        </div>
+                    </div>
                     <div class="agent-bg-section">
                         <div class="fw_car_title-wrap">
                             <div class="fw_car_title">
@@ -399,6 +406,7 @@
                             </div>
                         </div>
                     </div>
+
                     <div class="container">
                         <div class="post-banner-widget post-banner-widget_single">
                             <div class="bg-wrap fs-wrapper bg-parallax-wrap-gradien">
@@ -554,93 +562,7 @@
             <!--content  end-->
             <!--main-footer-->
             <div class="height-emulator"></div>
-            <footer class="main-footer">
-                <div class="container">
-                    <div class="footer-inner">
-                        <div class="row">
-                            <!-- footer-widget -->
-                            <div class="col-lg-4">
-                                <div class="footer-widget">
-                                    <div class="footer-widget-title">Get Our Application</div>
-                                    <div class="footer-widget-content">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eaque ipsa quae ab illo inventore veritatis et quasi architecto.</p>
-                                        <div class="api-links-wrap">
-                                            <a href="#" class="footer-widget-content-link"><span> On Apple Store</span><i class="fa-brands fa-apple"></i></a>
-                                            <a href="#" class="footer-widget-content-link"><span> On Google PLay</span><i class="fa-brands fa-google-play"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- footer-widget  end-->
-                            <!-- footer-widget -->
-                            <div class="col-lg-2">
-                                <div class="footer-widget">
-                                    <div class="footer-widget-title">Helpful links</div>
-                                    <div class="footer-widget-content">
-                                        <div class="footer-list footer-box  ">
-                                            <ul>
-                                                <li><a href="#">Our last News</a></li>
-                                                <li><a href="#">Pricing Plans</a></li>
-                                                <li><a href="#">Contacts</a></li>
-                                                <li><a href="#">Help Center</a></li>
-                                                <li><a href="#">Privacy Policy</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- footer-widget  end-->
-                            <!-- footer-widget -->
-                            <div class="col-lg-2">
-                                <div class="footer-widget">
-                                    <div class="footer-widget-title">Our Contacts</div>
-                                    <div class="footer-widget-content">
-                                        <div class="footer-list footer-box  ">
-                                            <ul class="footer-contacts  ">
-                                                <li><span>Mail :</span><a href="#" target="_blank">yourmail@domain.com</a></li>
-                                                <li> <span>Adress :</span><a href="#" target="_blank">USA 27TH Brooklyn NY</a></li>
-                                                <li><span>Phone :</span><a href="#">+2(111)123456789</a></li>
-                                            </ul>
-                                            <a href="contacts.html" class="footer-widget-content-link"><span>Get in Touch</span><i class="fa-solid fa-caret-right"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- footer-widget  end-->
-                            <!-- footer-widget -->
-                            <div class="col-lg-4">
-                                <div class="footer-widget">
-                                    <div class="footer-widget-title">Subscribe</div>
-                                    <div class="footer-widget-content">
-                                        <p>Want to be notified when we launch a new template or an udpate. Just sign up and we'll send you a notification by email.</p>
-                                        <form id="subscribe" class="subscribe-item">
-                                            <input class="enteremail" name="email" id="subscribe-email" placeholder="Your Email" spellcheck="false" type="text">
-                                            <button type="submit" id="subscribe-button" class="subscribe-button"><span>Send</span> </button>
-                                            <label for="subscribe-email" class="subscribe-message"></label>
-                                        </form>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- footer-widget  end-->
-                        </div>
-                        <!-- footer-widget-wrap end-->
-                    </div>
-                    <div class="footer-bottom">
-                        <a href="index.html" class="footer-home_link"><i class="fa-regular  fa-house"></i></a>
-                        <div class="copyright"> <span>&#169;Renstate 2024</span> . All rights reserved. </div>
-                        <div class="footer-social">
-                            <span class="footer-social-title">Follow Us</span>
-                            <div class="footer-social-wrap">
-                                <a href="#" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
-                                <a href="#" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
-                                <a href="#" target="_blank"><i class="fa-brands fa-instagram"></i></a>
-                                <a href="#" target="_blank"><i class="fa-brands fa-tiktok"></i></a>
-                                <a href="#" target="_blank"><i class="fa-brands fa-youtube"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </footer>
+            <?php include_once('includes/footer.php') ?>
             <!--main-footer end-->
         </div>
         <!--warpper end-->
