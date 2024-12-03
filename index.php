@@ -33,10 +33,13 @@
                                     <a href="/">Home</a>
                                 </li>
                                 <li>
-                                    <a href="/about">About Us </a>
+                                    <a href="/about-us">About Us </a>
                                 </li>
                                 <li>
-                                    <a href="/services">News</a>
+                                    <a href="/services">Our Services </a>
+                                </li>
+                                <li>
+                                    <a href="/faqs">FAQs</a>
                                 </li>
                                 <li>
                                     <a href="/contact">Contact Us</a>

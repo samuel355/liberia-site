@@ -33,10 +33,13 @@
                                     <a href="/">Home</a>
                                 </li>
                                 <li class="nav-active">
-                                    <a href="/about">About Us </a>
+                                    <a href="/about-us">About Us </a>
                                 </li>
                                 <li>
-                                    <a href="/services">News</a>
+                                    <a href="/services">Services</a>
+                                </li>
+                                <li>
+                                    <a href="/faqs">FAQs</a>
                                 </li>
                                 <li>
                                     <a href="/contact">Contact Us</a>
@@ -124,6 +127,17 @@
                                             </p>
                                             <p>2. A robust portfolio of verified properties.</p>
                                             <p>3. Cutting-edge technology for property searches and management</p>
+
+                                            <div class="about-title ab-hero ab-hero2">
+                                                <h2> Our Mission</h2>
+                                                <h4></h4>
+                                            </div>
+                                            <p>To transform Liberia’s real estate market by setting the highest standards of excellence, transparency, and customer satisfaction.</p>
+
+                                            <div class="about-title ab-hero ab-hero2" style="margin-top: 1rem;">
+                                                <h2>Our Vission</h2>
+                                            </div>
+                                            <p>To empower clients with the tools, insights, and support needed to make confident real estate decisions</p>
                                             <a href="/contact" class="commentssubmit" style="margin-top: 30px">Get In Touch With Us</a>
                                         </div>
                                         <div class="col-lg-6">
@@ -423,7 +437,7 @@
                     <!-- Testimonials  -->
                     <?php include_once('includes/testimonials.php') ?>
                     <!-- Testimonialsend  -->
-                     
+
                     <!--container-->
                     <div class="container">
                         <div class="api-wrap">
