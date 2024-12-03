@@ -123,164 +123,138 @@
                                             <div class="post-item">
                                                 <div class="post-item_wrap">
                                                     <div class="post-item_media">
-                                                        <a href="blog-single.html">
+                                                        <a href="/">
                                                             <img src="images/all/7.jpg" alt="">
                                                         </a>
-                                                        <ul class="post_header_cat">
-                                                            <li><a href="#" class="cat-opt">Rooms</a></li>
-                                                            <li><a href="#" class="cat-opt">House</a></li>
-                                                        </ul>
                                                     </div>
                                                     <div class="post-item_content">
-                                                        <h3><a href="blog-single.html">Wood Nature Trip</a></h3>
+                                                        <h3><a href="/">Wood Nature Trip</a></h3>
                                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. Donec a consectetur nulla...</p>
-                                                        <div class="post-card-details">
-                                                            <ul>
-                                                                <li><i class="fa-light fa-calendar-days"></i><span>March 10, 2024</span></li>
-                                                                <li><i class="fa-light fa-comment"></i><span>2 comments</span></li>
-                                                            </ul>
-                                                        </div>
-                                                        <a href="blog-single.html" class="post-card_link">View Details <i class="fa-solid fa-caret-right"></i></a>
-                                                        <div class="pv-item_wrap"><i class="fa-light fa-glasses"></i><span> Viewed - <strong>335</strong></span></div>
+                                
+                                                        <a href="/" class="post-card_link">View Details <i class="fa-solid fa-caret-right"></i></a>
+                                                        
                                                     </div>
                                                 </div>
                                             </div>
-                                            <!-- post-item end-->
-                                            <!-- post-item-->
+                                            
                                             <div class="post-item">
                                                 <div class="post-item_wrap">
                                                     <div class="post-item_media">
-                                                        <a href="blog-single.html">
-                                                            <img src="images/all/12.jpg" alt="">
+                                                        <a href="/">
+                                                            <img src="images/all/7.jpg" alt="">
                                                         </a>
-                                                        <ul class="post_header_cat">
-                                                            <li><a href="#" class="cat-opt">Rooms</a></li>
-                                                            <li><a href="#" class="cat-opt">House</a></li>
-                                                        </ul>
                                                     </div>
                                                     <div class="post-item_content">
-                                                        <h3><a href="blog-single.html">How to Book a Room online</a></h3>
+                                                        <h3><a href="/">Wood Nature Trip</a></h3>
                                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. Donec a consectetur nulla...</p>
-                                                        <div class="post-card-details">
-                                                            <ul>
-                                                                <li><i class="fa-light fa-calendar-days"></i><span>September 10, 2023</span></li>
-                                                                <li><i class="fa-light fa-comment"></i><span>0 comments</span></li>
-                                                            </ul>
-                                                        </div>
-                                                        <a href="blog-single.html" class="post-card_link">View Details <i class="fa-solid fa-caret-right"></i></a>
-                                                        <div class="pv-item_wrap"><i class="fa-light fa-glasses"></i><span> Viewed - <strong>59</strong></span></div>
+                                
+                                                        <a href="/" class="post-card_link">View Details <i class="fa-solid fa-caret-right"></i></a>
+                                                        
                                                     </div>
                                                 </div>
                                             </div>
-                                            <!-- post-item end-->
-                                            <!-- post-item-->
+
                                             <div class="post-item">
                                                 <div class="post-item_wrap">
                                                     <div class="post-item_media">
-                                                        <a href="blog-single.html">
-                                                            <img src="images/all/13.jpg" alt="">
+                                                        <a href="/">
+                                                            <img src="images/all/7.jpg" alt="">
                                                         </a>
-                                                        <ul class="post_header_cat">
-                                                            <li><a href="#" class="cat-opt">Rooms</a></li>
-                                                            <li><a href="#" class="cat-opt">House</a></li>
-                                                        </ul>
                                                     </div>
                                                     <div class="post-item_content">
-                                                        <h3><a href="blog-single.html">Connecting the Lost</a></h3>
+                                                        <h3><a href="/">Wood Nature Trip</a></h3>
                                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. Donec a consectetur nulla...</p>
-                                                        <div class="post-card-details">
-                                                            <ul>
-                                                                <li><i class="fa-light fa-calendar-days"></i><span>August 10, 2023</span></li>
-                                                                <li><i class="fa-light fa-comment"></i><span>1 comments</span></li>
-                                                            </ul>
-                                                        </div>
-                                                        <a href="blog-single.html" class="post-card_link">View Details <i class="fa-solid fa-caret-right"></i></a>
-                                                        <div class="pv-item_wrap"><i class="fa-light fa-glasses"></i><span> Viewed - <strong>432</strong></span></div>
+                                
+                                                        <a href="/" class="post-card_link">View Details <i class="fa-solid fa-caret-right"></i></a>
+                                                        
                                                     </div>
                                                 </div>
                                             </div>
-                                            <!-- post-item end-->
-                                            <!-- post-item-->
+
                                             <div class="post-item">
                                                 <div class="post-item_wrap">
                                                     <div class="post-item_media">
-                                                        <a href="blog-single.html">
-                                                            <img src="images/all/14.jpg" alt="">
+                                                        <a href="/">
+                                                            <img src="images/all/7.jpg" alt="">
                                                         </a>
-                                                        <ul class="post_header_cat">
-                                                            <li><a href="#" class="cat-opt">Rooms</a></li>
-                                                            <li><a href="#" class="cat-opt">House</a></li>
-                                                        </ul>
                                                     </div>
                                                     <div class="post-item_content">
-                                                        <h3><a href="blog-single.html">The Beauty in the Calm</a></h3>
+                                                        <h3><a href="/">Wood Nature Trip</a></h3>
                                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. Donec a consectetur nulla...</p>
-                                                        <div class="post-card-details">
-                                                            <ul>
-                                                                <li><i class="fa-light fa-calendar-days"></i><span>March 10, 2023</span></li>
-                                                                <li><i class="fa-light fa-comment"></i><span>3 comments</span></li>
-                                                            </ul>
-                                                        </div>
-                                                        <a href="blog-single.html" class="post-card_link">View Details <i class="fa-solid fa-caret-right"></i></a>
-                                                        <div class="pv-item_wrap"><i class="fa-light fa-glasses"></i><span> Viewed - <strong>112</strong></span></div>
+                                
+                                                        <a href="/" class="post-card_link">View Details <i class="fa-solid fa-caret-right"></i></a>
+                                                        
                                                     </div>
                                                 </div>
                                             </div>
-                                            <!-- post-item end-->
-                                            <!-- post-item-->
+
                                             <div class="post-item">
                                                 <div class="post-item_wrap">
                                                     <div class="post-item_media">
-                                                        <a href="blog-single.html">
-                                                            <img src="images/all/10.jpg" alt="">
+                                                        <a href="/">
+                                                            <img src="images/all/7.jpg" alt="">
                                                         </a>
-                                                        <ul class="post_header_cat">
-                                                            <li><a href="#" class="cat-opt">Rooms</a></li>
-                                                            <li><a href="#" class="cat-opt">House</a></li>
-                                                        </ul>
                                                     </div>
                                                     <div class="post-item_content">
-                                                        <h3><a href="blog-single.html">Wood Nature Trip</a></h3>
+                                                        <h3><a href="/">Wood Nature Trip</a></h3>
                                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. Donec a consectetur nulla...</p>
-                                                        <div class="post-card-details">
-                                                            <ul>
-                                                                <li><i class="fa-light fa-calendar-days"></i><span>September 10, 2023</span></li>
-                                                                <li><i class="fa-light fa-comment"></i><span>4 comments</span></li>
-                                                            </ul>
-                                                        </div>
-                                                        <a href="blog-single.html" class="post-card_link">View Details <i class="fa-solid fa-caret-right"></i></a>
-                                                        <div class="pv-item_wrap"><i class="fa-light fa-glasses"></i><span> Viewed - <strong>79</strong></span></div>
+                                
+                                                        <a href="/" class="post-card_link">View Details <i class="fa-solid fa-caret-right"></i></a>
+                                                        
                                                     </div>
                                                 </div>
                                             </div>
-                                            <!-- post-item end-->
-                                            <!-- post-item-->
+
                                             <div class="post-item">
                                                 <div class="post-item_wrap">
                                                     <div class="post-item_media">
-                                                        <a href="blog-single.html">
-                                                            <img src="images/all/11.jpg" alt="">
+                                                        <a href="/">
+                                                            <img src="images/all/7.jpg" alt="">
                                                         </a>
-                                                        <ul class="post_header_cat">
-                                                            <li><a href="#" class="cat-opt">Rooms</a></li>
-                                                            <li><a href="#" class="cat-opt">House</a></li>
-                                                        </ul>
                                                     </div>
                                                     <div class="post-item_content">
-                                                        <h3><a href="blog-single.html">Snowy Mountains Journey</a></h3>
+                                                        <h3><a href="/">Wood Nature Trip</a></h3>
                                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. Donec a consectetur nulla...</p>
-                                                        <div class="post-card-details">
-                                                            <ul>
-                                                                <li><i class="fa-light fa-calendar-days"></i><span>August 10, 2023</span></li>
-                                                                <li><i class="fa-light fa-comment"></i><span>6 comments</span></li>
-                                                            </ul>
-                                                        </div>
-                                                        <a href="blog-single.html" class="post-card_link">View Details <i class="fa-solid fa-caret-right"></i></a>
-                                                        <div class="pv-item_wrap"><i class="fa-light fa-glasses"></i><span> Viewed - <strong>56</strong></span></div>
+                                
+                                                        <a href="/" class="post-card_link">View Details <i class="fa-solid fa-caret-right"></i></a>
+                                                        
                                                     </div>
                                                 </div>
                                             </div>
-                                            <!-- post-item end-->
+
+                                            <div class="post-item">
+                                                <div class="post-item_wrap">
+                                                    <div class="post-item_media">
+                                                        <a href="/">
+                                                            <img src="images/all/7.jpg" alt="">
+                                                        </a>
+                                                    </div>
+                                                    <div class="post-item_content">
+                                                        <h3><a href="/">Wood Nature Trip</a></h3>
+                                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. Donec a consectetur nulla...</p>
+                                
+                                                        <a href="/" class="post-card_link">View Details <i class="fa-solid fa-caret-right"></i></a>
+                                                        
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="post-item">
+                                                <div class="post-item_wrap">
+                                                    <div class="post-item_media">
+                                                        <a href="/">
+                                                            <img src="images/all/7.jpg" alt="">
+                                                        </a>
+                                                    </div>
+                                                    <div class="post-item_content">
+                                                        <h3><a href="/">Wood Nature Trip</a></h3>
+                                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. Donec a consectetur nulla...</p>
+                                
+                                                        <a href="/" class="post-card_link">View Details <i class="fa-solid fa-caret-right"></i></a>
+                                                        
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </div>
                                        
                                         <!-- pagination end-->
