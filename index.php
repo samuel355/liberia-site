@@ -1,17 +1,4 @@
-<!DOCTYPE HTML>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="description"
-        content="Welcome to ..., your one-stop solution for real estate services. Whether you’re buying, selling, renting, or investing, our agency is committed to meeting your needs with excellence. ">
-    <meta name="developer" content="Samuel Osei Adu - addsam.dev@outlook.com">
-    <title>Rentstate - Real Estate Agency </title>
-    <link type="text/css" rel="stylesheet" href="css/plugins.css">
-    <link type="text/css" rel="stylesheet" href="css/style.css">
-    <link rel="shortcut icon" href="images/favicon.ico">
-</head>
+<?php include('includes/head.php') ?>
 
 <body>
     <!--loader-->
@@ -59,7 +46,6 @@
         </header>
         <div class="body-overlay fs-wrapper search-form-overlay close-search-form"></div>
         <!--header-end-->
-
         <!--warpper-->
         <div class="wrapper">
             <div class="content">
@@ -228,7 +214,7 @@
                                     <div class="row">
                                         <div class="col-lg-5">
                                             <div class="about-title ab-hero">
-                                                <h2>Why Choose Contours Ltd </h2>
+                                                <h2>Why Choose Contours Ltd         <?php echo htmlspecialchars($pageTitle) ?> </h2>
                                                 <h4>Explore these features about Contours Ltd</h4>
                                             </div>
                                             <div class="services-opions">

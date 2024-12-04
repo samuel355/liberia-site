@@ -1,17 +1,4 @@
-<!DOCTYPE HTML>
-<html lang="en">
-
-<head>
-    <!--=============== basic  ===============-->
-    <meta charset="UTF-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Rentstate - Real Estate Agency Template</title>
-    <!--=============== css  ===============-->
-    <link type="text/css" rel="stylesheet" href="css/plugins.css">
-    <link type="text/css" rel="stylesheet" href="css/style.css">
-    <!--=============== favicons ===============-->
-    <link rel="shortcut icon" href="images/favicon.ico">
-</head>
+<?php include('includes/head.php') ?>
 
 <body>
     <!--loader-->
