@@ -64,7 +64,9 @@
                                             <i class="fa-regular fa-location-dot"></i>
                                             <span>Our Location</span>
                                             <p>Visit us at our conveniently located office in Liberia. Whether you want to discuss your property needs in person or explore our services, we are here to assist you.</p>
-                                            <a href="#">Liberia 27TH Street 1</a>
+                                            <a href="javascript:void()">
+                                                Center and Carey Streets Intersection, Opposite the DSTV.
+                                            </a>
                                         </div>
                                     </div>
                                     <!-- contacts-card-item end-->
@@ -74,8 +76,9 @@
                                             <i class="fa-regular fa-phone-rotary"></i>
                                             <span>Our Phone</span>
                                             <p>Reach us directly on the available lines, and our team is ready to answer your questions or schedule a consultation.</p>
-                                            <a href="#"> +233 89 753 6422</a>
-                                            <a href="#"> +224 45 678 9222</a>
+                                            <a href="tel:055266609"> 055 526 6609</a> /
+                                            <a href="tel:770266609"> 77 026 6609</a> /
+                                            <a href="tel:0886740519"> 0886-740-519</a>
                                         </div>
                                     </div>
                                     <!-- contacts-card-item end-->
@@ -85,7 +88,7 @@
                                             <i class="fa-regular fa-mailbox"></i>
                                             <span>Our Mail</span>
                                             <p>For inquiries, feedback, or detailed information about our services, send us an email. We aim to respond promptly to all messages.</p>
-                                            <a href="#">info@contours.com</a>
+                                            <a href="mailto:contoursltd@gmail.com">contoursltd@gmail.com</a>
                                         </div>
                                     </div>
                                     <!-- contacts-card-item end-->
@@ -98,7 +101,8 @@
                                     <div class="contacts-opt-wrap">
                                         <div class="contact-wh_title">Working Hours</div>
                                         <div class="contact-wh">
-                                            <div class="contact-wh-item">Monday - Friday:<strong> 8am - 6pm</strong></div>
+                                            <div class="contact-wh-item">Monday - Friday:<strong> 8am - 5pm</strong></div>
+                                            <div class="contact-wh-item">Saturday<strong> 8am - 12noon</strong></div>
                                         </div>
                                     </div>
                                 </div>
@@ -130,20 +134,29 @@
                                             </div>
                                             <div class="boxed-content-item">
                                                 <div class="comment-form custom-form contactform-wrap">
-                                                    <form class="comment-form" action="" name="contactform" id="contactform">
+                                                    <form class="comment-form" action="" name="contactform" id="contact-form">
                                                         <fieldset>
                                                             <div id="message"></div>
                                                             <div class="row">
-                                                                <div class="col-sm-6">
+                                                                <div class="col-sm-12">
                                                                     <div class="cs-intputwrap">
                                                                         <i class="fa-light fa-user"></i>
                                                                         <input name="name" type="text" id="name" placeholder="Your full Name" onClick="this.select()" value="">
                                                                     </div>
                                                                 </div>
+
+                                                            </div>
+                                                            <div class="row">
                                                                 <div class="col-sm-6">
                                                                     <div class="cs-intputwrap">
                                                                         <i class="fa-light fa-envelope"></i>
                                                                         <input type="text" name="email" id="email" placeholder="Email Address *" onClick="this.select()" value="">
+                                                                    </div>
+                                                                </div>
+                                                                <div class="col-sm-6">
+                                                                    <div class="cs-intputwrap">
+                                                                        <i class="fa-light fa-phone"></i>
+                                                                        <input type="text" name="phone" id="phone" placeholder="Contact" onClick="this.select()" value="">
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -185,159 +198,10 @@
             <!--main-footer end-->
         </div>
         <!--warpper end-->
-        <!--wish-list-wrap-->
-        <div class="wish-list-wrap">
-            <div class="wish-list-close clwl_btn"><i class="fa-regular fa-xmark"></i></div>
-            <div class="wish-list_header">
-                <div class="wish-list-title">Your Wishlist <span>3</span></div>
-            </div>
-            <div class="wish-list-container">
-                <!--wish-list-item-->
-                <div class="wish-list-item fl-wrap">
-                    <div class="wish-list-img"><a href="listing-single.html"><img src="images/all/thumbnails/1.jpg" alt=""></a>
-                    </div>
-                    <div class="wish-list-descr">
-                        <h4><a href="listing-single.html">Urban House</a></h4>
-                        <div class="geodir-category-location fl-wrap"><a href="#"> 40 Journal Square , NJ, USA</a></div>
-                        <div class="wish-list-price"> $ 320,000</div>
-                        <div class="clear-wishlist"><i class="fa-regular fa-trash-can"></i></div>
-                    </div>
-                </div>
-                <!--wish-list-item end-->
-                <!--wish-list-item-->
-                <div class="wish-list-item fl-wrap">
-                    <div class="wish-list-img"><a href="listing-single.html"><img src="images/all/thumbnails/2.jpg" alt=""></a>
-                    </div>
-                    <div class="wish-list-descr">
-                        <h4><a href="listing-single.html">Luxury Family Home</a></h4>
-                        <div class="geodir-category-location fl-wrap"><a href="#"> 40 Journal Square , NJ, USA</a></div>
-                        <div class="wish-list-price"> $ 1500 - per month</div>
-                        <div class="clear-wishlist"><i class="fa-regular fa-trash-can"></i></div>
-                    </div>
-                </div>
-                <!--wish-list-item end-->
-                <!--wish-list-item-->
-                <div class="wish-list-item fl-wrap">
-                    <div class="wish-list-img"><a href="listing-single.html"><img src="images/all/thumbnails/3.jpg" alt=""></a>
-                    </div>
-                    <div class="wish-list-descr">
-                        <h4><a href="listing-single.html">Modern Apartment</a></h4>
-                        <div class="geodir-category-location fl-wrap"><a href="#"> 40 Journal Square , NJ, USA</a></div>
-                        <div class="wish-list-price"> $ 1,600,000</div>
-                        <div class="clear-wishlist"><i class="fa-regular fa-trash-can"></i></div>
-                    </div>
-                </div>
-                <!--wish-list-item end-->
-            </div>
-            <div class="wish-list-footer">
-                <div class="clear_wishlist"> Clear Wishlist</div>
-            </div>
-        </div>
-        <!--wish-list-wrap end-->
+
         <div class="mob-nav-overlay fs-wrapper"></div>
         <div class="body-overlay fs-wrapper wishlist-wrap-overlay clwl_btn"></div>
-        <!--register form -->
-        <div class="main-register-container">
-            <div class="main-register_box">
-                <div class="main-register-holder">
-                    <div class="main-register-wrap ">
-                        <div class="main-register_bg">
-                            <div class="mr_title">
-                                <h4>Welcome to Rentstate</h4>
-                                <h5>Premium Real Estate Agency</h5>
-                            </div>
-                            <div class="main-register_contacts-wrap">
-                                <h4>Have a questions?</h4>
-                                <a href="contacts.html"> Get in Touch</a>
-                                <div class="svg-corner svg-corner_white" style="bottom:0;left:  -39px;"></div>
-                                <div class="svg-corner svg-corner_white" style="bottom:0;right:  -39px;transform: rotate(90deg)"></div>
-                            </div>
-                            <div class="main-register_bg-dec"></div>
-                        </div>
-                        <div class="main-register tabs-act fl-wrap">
-                            <ul class="tabs-menu">
-                                <li class="current"><a href="#tab-1"><i class="fa-regular fa-sign-in-alt"></i> Login</a></li>
-                                <li><a href="#tab-2"> <i class="fa-regular fa-user-plus"></i> Register</a></li>
-                            </ul>
-                            <div class="close-modal close-reg-form"><i class="fa-regular fa-xmark"></i></div>
-                            <!--tabs -->
-                            <div id="tabs-container">
-                                <div class="tab">
-                                    <!--tab -->
-                                    <div id="tab-1" class="tab-content first-tab">
-                                        <div class="custom-form">
-                                            <form method="post" name="registerform">
-                                                <!-- listsearch-input-item -->
-                                                <div class="cs-intputwrap">
-                                                    <i class="fa-light fa-user"></i>
-                                                    <input type="text" placeholder="Username or Email Address" value="">
-                                                </div>
-                                                <!-- listsearch-input-item -->
-                                                <div class="cs-intputwrap pass-input-wrap">
-                                                    <i class="fa-light fa-lock"></i>
-                                                    <input type="password" class="pass-input" placeholder="Current Password" value="">
-                                                    <div class="view-pass"></div>
-                                                </div>
-                                                <!-- listsearch-input-item -->
-                                                <div class="filter-tags">
-                                                    <input id="check-a" type="checkbox" name="check" checked>
-                                                    <label for="check-a">Remember me</label>
-                                                </div>
-                                                <div class="lost_password">
-                                                    <a href="#">Lost Your Password?</a>
-                                                </div>
-                                                <div class="clearfix"></div>
-                                                <button type="submit" class="commentssubmit"> Log In </button>
-                                            </form>
-                                        </div>
-                                    </div>
-                                    <!--tab end -->
-                                    <!--tab -->
-                                    <div class="tab">
-                                        <div id="tab-2" class="tab-content">
-                                            <div class="custom-form">
-                                                <form method="post" name="registerform" class="main-register-form" id="main-register-form2">
-                                                    <!-- listsearch-input-item -->
-                                                    <div class="cs-intputwrap">
-                                                        <i class="fa-light fa-user"></i>
-                                                        <input type="text" placeholder="Full Name" value="">
-                                                    </div>
-                                                    <!-- listsearch-input-item -->
-                                                    <!-- listsearch-input-item -->
-                                                    <div class="cs-intputwrap">
-                                                        <i class="fa-light fa-envelope"></i>
-                                                        <input type="text" placeholder="Email Address" value="">
-                                                    </div>
-                                                    <!-- listsearch-input-item -->
-                                                    <!-- listsearch-input-item -->
-                                                    <div class="cs-intputwrap pass-input-wrap">
-                                                        <i class="fa-light fa-lock"></i>
-                                                        <input type="password" class="pass-input" placeholder="Password" value="">
-                                                        <div class="view-pass"></div>
-                                                    </div>
-                                                    <!-- listsearch-input-item -->
-                                                    <button type="submit" class="commentssubmit"><span>Register</span></button>
-                                                </form>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!--tab end -->
-                                </div>
-                                <!--tabs end -->
-                                <div class="log-separator fl-wrap"><span>or</span></div>
-                                <div class="soc-log  fl-wrap">
-                                    <p>For faster login or register use your social account.</p>
-                                    <a href="#" class="google_log"><i class="fa-brands fa-google"></i>Connect with Google</a>
-                                    <a href="#" class="fb_log"><i class="fa-brands fa-facebook-f"></i> Connect with Facebook</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="body-overlay fs-wrapper reg-overlay close-reg-form"></div>
-        </div>
-        <!--register form end -->
+
         <!-- progress-bar  -->
         <div class="progress-bar-wrap">
             <div class="progress-bar color-bg"></div>
@@ -345,7 +209,7 @@
         <!-- progress-bar end -->
     </div>
     <!-- Main end -->
-    
+
     <?php include_once('includes/script.php') ?>
 
 </body>

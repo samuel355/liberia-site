@@ -15,6 +15,9 @@ switch ($pageFile) {
   case 'services.php':
     $pageTitle = "Our Services - Contours Ltd";
     break;
+    case 'error-page.php':
+      $pageTitle = "Error Page - Contours Ltd";
+      break;
   default:
     $pageTitle = "Contours Ltd";
     break;
@@ -34,4 +37,5 @@ switch ($pageFile) {
   <link type="text/css" rel="stylesheet" href="css/plugins.css">
   <link type="text/css" rel="stylesheet" href="css/style.css">
   <link rel="shortcut icon" href="images/favicon.ico">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
 </head>

@@ -94,7 +94,7 @@
                                                         <span>You Have any Enquiries?</span>
                                                     </div>
                                                 </div>
-                                                <div class="custom-form">
+                                                <form class="custom-form" id="contact-form">
                                                     <div class="row">
                                                         <div class="col-lg-12">
                                                             <div class="cs-intputwrap">
@@ -132,7 +132,7 @@
                                                         </div>
                                                     </div>
                                                     <button class="commentssubmit commentssubmit_fw">Submit</button>
-                                                </div>
+                                                </form>
                                             </div>
                                         </div>
                                     </div>
