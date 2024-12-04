@@ -19,42 +19,7 @@
     <!--  main   -->
     <div id="main">
         <!--header-->
-        <header class="main-header">
-            <div class="container">
-                <div class="header-inner">
-                    <a href="/" class="logo-holder"><img src="images/logo.png" alt=""></a>
-                    <!--  navigation -->
-                    <div class="nav-holder main-menu">
-                        <nav>
-                            <ul class="no-list-style">
-                                <li>
-                                    <a href="/">Home</a>
-                                </li>
-                                <li>
-                                    <a href="/about-us">About Us </a>
-                                </li>
-                                <li class="nav-active">
-                                    <a href="/services">Our Services </a>
-                                </li>
-                                <li>
-                                    <a href="/faqs">FAQs</a>
-                                </li>
-                                <li>
-                                    <a href="/contact">Contact Us</a>
-                                </li>
-                            </ul>
-                        </nav>
-                    </div>
-                    <!-- navigation  end -->
-                    <!-- nav-button-wrap-->
-                    <div class="nav-button-wrap">
-                        <div class="nav-button">
-                            <span></span><span></span><span></span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </header>
+        <?php include_once('includes/header.php') ?>
         <div class="body-overlay fs-wrapper search-form-overlay close-search-form"></div>
         <!--header-end-->
         <!--warpper-->
