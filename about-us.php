@@ -114,10 +114,9 @@
                                         <div class="col-lg-6">
                                             <div class="about-title ab-hero ab-hero2">
                                                 <h2> About Us</h2>
-                                                <h4>Check video presentation to find out more about us .</h4>
                                             </div>
                                             <p>
-                                                Contours Consult is a leading real estate agency based in Liberia, dedicated to helping individuals and businesses navigate the complexities of property transactions with ease. Established to bridge the gap between property seekers and the market, our team ensures every transaction is secure, transparent, and beneficial for all parties.
+                                                Contours Limited bridges the gap in Liberia's land surveying and mapping industry, offering top-notch services to public and private sectors. Founded to address the critical need for professional land surveying, we bring expertise, innovation, and modern technology to spatial problem-solving.
                                             </p>
                                             <div class="about-title ab-hero ab-hero2" style="margin-top: 1rem;">
                                                 <h2>What Sets Us Apart</h2>
@@ -132,12 +131,16 @@
                                                 <h2> Our Mission</h2>
                                                 <h4></h4>
                                             </div>
-                                            <p>To transform Liberia’s real estate market by setting the highest standards of excellence, transparency, and customer satisfaction.</p>
+                                            <p>
+                                                To identify and resolve the spatial needs of society with tailored solutions that exceed expectations.
+                                            </p>
 
                                             <div class="about-title ab-hero ab-hero2" style="margin-top: 1rem;">
                                                 <h2>Our Vission</h2>
                                             </div>
-                                            <p>To empower clients with the tools, insights, and support needed to make confident real estate decisions</p>
+                                            <p>
+                                                To make geo-information technology accessible and cost-effective for everyone in the geo-spatial industry.
+                                            </p>
                                             <a href="/contact" class="commentssubmit" style="margin-top: 30px">Get In Touch With Us</a>
                                         </div>
                                         <div class="col-lg-6">
@@ -421,53 +424,11 @@
                         </div>
                     </div>
 
-                    <div class="container">
-                        <div class="post-banner-widget post-banner-widget_single">
-                            <div class="bg-wrap fs-wrapper bg-parallax-wrap-gradien">
-                                <div class="bg  " data-bg="images/bg/12.jpg"></div>
-                            </div>
-                            <div class="post-banner-widget_content">
-                                <h5>Participate in our loyalty program. Refer a friend and get a discount.</h5>
-                                <p> Lorem ipsum dolor sit amet, conse ctetuer adipiscing elit, sed diam nonu mmy nibh euismod tincidunt ut . Mauris non ligula suscipit, vulputate mi accumsan, dapibus felis. </p>
-                                <a href="#">Read More About Programm</a>
-                            </div>
-                        </div>
-                    </div>
-
                     <!-- Testimonials  -->
                     <?php include_once('includes/testimonials.php') ?>
                     <!-- Testimonialsend  -->
 
-                    <!--container-->
-                    <div class="container">
-                        <div class="api-wrap">
-                            <div class="api-container">
-                                <div class="api-img">
-                                    <img src="images/api.png" alt="" class="respimg">
-                                </div>
-                                <div class="api-text">
-                                    <h3>Our App Available Now</h3>
-                                    <p>In ut odio libero, at vulputate urna. Nulla tristique mi a massa convallis cursus. Nulla eu mi magna. Etiam suscipit commodo gravida. Lorem ipsum dolor sit amet, conse ctetuer adipiscing elit, sed diam nonu mmy nibh euismod tincidunt ut laoreet dolore magna aliquam erat.</p>
-                                    <div class="api-text-links">
-                                        <a href="#"><span> On Apple Store</span><i class="fa-brands fa-apple"></i></a>
-                                        <a href="#"><span> On Google PLay</span><i class="fa-brands fa-google-play"></i></a>
-                                    </div>
-                                </div>
-                                <div class="api-wrap-bg" data-run="2">
-                                    <div class="api-wrap-bg-container">
-                                        <span class="api-bg-pin"></span><span class="api-bg-pin"></span>
-                                        <div class="abs_bg"></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="to_top-btn-wrap">
-                            <div class="to-top to-top_btn"><span>Back to top</span> <i class="fa-solid fa-arrow-up"></i></div>
-                            <div class="svg-corner svg-corner_white" style="top:0;left:  -40px; transform: rotate(-90deg)"></div>
-                            <div class="svg-corner svg-corner_white" style="top:0;right: -40px; transform: rotate(-180deg)"></div>
-                        </div>
-                    </div>
-                    <!--container end-->
+                    <?php include_once('includes/cta-arch-design.php') ?>
                 </div>
                 <!--main-content end-->
             </div>
@@ -478,159 +439,10 @@
             <!--main-footer end-->
         </div>
         <!--warpper end-->
-        <!--wish-list-wrap-->
-        <div class="wish-list-wrap">
-            <div class="wish-list-close clwl_btn"><i class="fa-regular fa-xmark"></i></div>
-            <div class="wish-list_header">
-                <div class="wish-list-title">Your Wishlist <span>3</span></div>
-            </div>
-            <div class="wish-list-container">
-                <!--wish-list-item-->
-                <div class="wish-list-item fl-wrap">
-                    <div class="wish-list-img"><a href="listing-single.html"><img src="images/all/thumbnails/1.jpg" alt=""></a>
-                    </div>
-                    <div class="wish-list-descr">
-                        <h4><a href="listing-single.html">Urban House</a></h4>
-                        <div class="geodir-category-location fl-wrap"><a href="#"> 40 Journal Square , NJ, USA</a></div>
-                        <div class="wish-list-price"> $ 320,000</div>
-                        <div class="clear-wishlist"><i class="fa-regular fa-trash-can"></i></div>
-                    </div>
-                </div>
-                <!--wish-list-item end-->
-                <!--wish-list-item-->
-                <div class="wish-list-item fl-wrap">
-                    <div class="wish-list-img"><a href="listing-single.html"><img src="images/all/thumbnails/2.jpg" alt=""></a>
-                    </div>
-                    <div class="wish-list-descr">
-                        <h4><a href="listing-single.html">Luxury Family Home</a></h4>
-                        <div class="geodir-category-location fl-wrap"><a href="#"> 40 Journal Square , NJ, USA</a></div>
-                        <div class="wish-list-price"> $ 1500 - per month</div>
-                        <div class="clear-wishlist"><i class="fa-regular fa-trash-can"></i></div>
-                    </div>
-                </div>
-                <!--wish-list-item end-->
-                <!--wish-list-item-->
-                <div class="wish-list-item fl-wrap">
-                    <div class="wish-list-img"><a href="listing-single.html"><img src="images/all/thumbnails/3.jpg" alt=""></a>
-                    </div>
-                    <div class="wish-list-descr">
-                        <h4><a href="listing-single.html">Modern Apartment</a></h4>
-                        <div class="geodir-category-location fl-wrap"><a href="#"> 40 Journal Square , NJ, USA</a></div>
-                        <div class="wish-list-price"> $ 1,600,000</div>
-                        <div class="clear-wishlist"><i class="fa-regular fa-trash-can"></i></div>
-                    </div>
-                </div>
-                <!--wish-list-item end-->
-            </div>
-            <div class="wish-list-footer">
-                <div class="clear_wishlist"> Clear Wishlist</div>
-            </div>
-        </div>
-        <!--wish-list-wrap end-->
+
         <div class="mob-nav-overlay fs-wrapper"></div>
         <div class="body-overlay fs-wrapper wishlist-wrap-overlay clwl_btn"></div>
-        <!--register form -->
-        <div class="main-register-container">
-            <div class="main-register_box">
-                <div class="main-register-holder">
-                    <div class="main-register-wrap ">
-                        <div class="main-register_bg">
-                            <div class="mr_title">
-                                <h4>Welcome to Rentstate</h4>
-                                <h5>Premium Real Estate Agency</h5>
-                            </div>
-                            <div class="main-register_contacts-wrap">
-                                <h4>Have a questions?</h4>
-                                <a href="contacts.html"> Get in Touch</a>
-                                <div class="svg-corner svg-corner_white" style="bottom:0;left:  -39px;"></div>
-                                <div class="svg-corner svg-corner_white" style="bottom:0;right:  -39px;transform: rotate(90deg)"></div>
-                            </div>
-                            <div class="main-register_bg-dec"></div>
-                        </div>
-                        <div class="main-register tabs-act fl-wrap">
-                            <ul class="tabs-menu">
-                                <li class="current"><a href="#tab-1"><i class="fa-regular fa-sign-in-alt"></i> Login</a></li>
-                                <li><a href="#tab-2"> <i class="fa-regular fa-user-plus"></i> Register</a></li>
-                            </ul>
-                            <div class="close-modal close-reg-form"><i class="fa-regular fa-xmark"></i></div>
-                            <!--tabs -->
-                            <div id="tabs-container">
-                                <div class="tab">
-                                    <!--tab -->
-                                    <div id="tab-1" class="tab-content first-tab">
-                                        <div class="custom-form">
-                                            <form method="post" name="registerform">
-                                                <!-- listsearch-input-item -->
-                                                <div class="cs-intputwrap">
-                                                    <i class="fa-light fa-user"></i>
-                                                    <input type="text" placeholder="Username or Email Address" value="">
-                                                </div>
-                                                <!-- listsearch-input-item -->
-                                                <div class="cs-intputwrap pass-input-wrap">
-                                                    <i class="fa-light fa-lock"></i>
-                                                    <input type="password" class="pass-input" placeholder="Current Password" value="">
-                                                    <div class="view-pass"></div>
-                                                </div>
-                                                <!-- listsearch-input-item -->
-                                                <div class="filter-tags">
-                                                    <input id="check-a" type="checkbox" name="check" checked>
-                                                    <label for="check-a">Remember me</label>
-                                                </div>
-                                                <div class="lost_password">
-                                                    <a href="#">Lost Your Password?</a>
-                                                </div>
-                                                <div class="clearfix"></div>
-                                                <button type="submit" class="commentssubmit"> Log In </button>
-                                            </form>
-                                        </div>
-                                    </div>
-                                    <!--tab end -->
-                                    <!--tab -->
-                                    <div class="tab">
-                                        <div id="tab-2" class="tab-content">
-                                            <div class="custom-form">
-                                                <form method="post" name="registerform" class="main-register-form" id="main-register-form2">
-                                                    <!-- listsearch-input-item -->
-                                                    <div class="cs-intputwrap">
-                                                        <i class="fa-light fa-user"></i>
-                                                        <input type="text" placeholder="Full Name" value="">
-                                                    </div>
-                                                    <!-- listsearch-input-item -->
-                                                    <!-- listsearch-input-item -->
-                                                    <div class="cs-intputwrap">
-                                                        <i class="fa-light fa-envelope"></i>
-                                                        <input type="text" placeholder="Email Address" value="">
-                                                    </div>
-                                                    <!-- listsearch-input-item -->
-                                                    <!-- listsearch-input-item -->
-                                                    <div class="cs-intputwrap pass-input-wrap">
-                                                        <i class="fa-light fa-lock"></i>
-                                                        <input type="password" class="pass-input" placeholder="Password" value="">
-                                                        <div class="view-pass"></div>
-                                                    </div>
-                                                    <!-- listsearch-input-item -->
-                                                    <button type="submit" class="commentssubmit"><span>Register</span></button>
-                                                </form>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!--tab end -->
-                                </div>
-                                <!--tabs end -->
-                                <div class="log-separator fl-wrap"><span>or</span></div>
-                                <div class="soc-log  fl-wrap">
-                                    <p>For faster login or register use your social account.</p>
-                                    <a href="#" class="google_log"><i class="fa-brands fa-google"></i>Connect with Google</a>
-                                    <a href="#" class="fb_log"><i class="fa-brands fa-facebook-f"></i> Connect with Facebook</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="body-overlay fs-wrapper reg-overlay close-reg-form"></div>
-        </div>
-        <!--register form end -->
+
         <!-- progress-bar  -->
         <div class="progress-bar-wrap">
             <div class="progress-bar color-bg"></div>
