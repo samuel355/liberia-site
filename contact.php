@@ -393,12 +393,9 @@
         <!-- progress-bar end -->
     </div>
     <!-- Main end -->
-    <!--=============== scripts  ===============-->
-    <script src="js/jquery.min.js"></script>
-    <script src="js/plugins.js"></script>
-    <script src="js/scripts.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAr0l1EpPCq36OX9AnrUq3k8ACfYclwMLI&libraries=places"></script>
-    <script src="js/map-single.js"></script>
+    
+    <?php include_once('includes/script.php') ?>
+
 </body>
 
 </html>

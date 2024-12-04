@@ -74,7 +74,7 @@
     </div>
     <div class="footer-bottom">
       <a href="/" class="footer-home_link"><i class="fa-regular  fa-house"></i></a>
-      <div class="copyright"> <span>&#169;Consult 2024</span> . All rights reserved. </div>
+      <div class="copyright"> <span>&#169;Consult Ltd <span class="current-year"> </span> </span> . All rights reserved. </div>
       <div class="footer-social">
         <span class="footer-social-title">Follow Us</span>
         <div class="footer-social-wrap">
