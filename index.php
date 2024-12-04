@@ -60,7 +60,6 @@
         <div class="body-overlay fs-wrapper search-form-overlay close-search-form"></div>
         <!--header-end-->
 
-
         <!--warpper-->
         <div class="wrapper">
             <div class="content">
@@ -83,15 +82,12 @@
                                                                     data-imbg="images/bg/9.jpg">
                                                                     <div class="hero-section-title hs_align-title">
                                                                         <div class="hero-section-title_sub">Welcome to
-                                                                            the Renstate Agency</div>
-                                                                        <h2>Find The House of Your Dream Using <br> Our
-                                                                            RealEstate Platform</h2>
-                                                                        <h5>Lorem ipsum dolor sit amet, consectetur
-                                                                            adipiscing elit. Ut nec tincidunt arcu, sit
-                                                                            amet fermentum sem.</h5>
-                                                                        <a href="#sec1"
+                                                                            Contours LTD</div>
+                                                                        <h2>Your Trusted Partner in Surveying, <br> Mapping, and Geo-informatics Services</h2>
+                                                                        <p>Delivering innovative, professional land and spatial solutions tailored for Liberia’s unique landscape.</p>
+                                                                        <a href="/about-us"
                                                                             class="commentssubmit csb_color  custom-scroll-link"
-                                                                            style="margin-top: 40px">Start Explore</a>
+                                                                            style="margin-top: 40px">Read More</a>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -101,22 +97,14 @@
                                                                 <div class="hero-carousel_item"
                                                                     data-imbg="images/bg/12.jpg">
                                                                     <div class="hero-section-title hs_align-title">
-                                                                        <div class="hero-section-title_sub">View Our Hot
-                                                                            Offer</div>
-                                                                        <h2><a href="listing-single.html">House in
-                                                                                Financial District</a></h2>
-                                                                        <div class="geodir-category-location">
-                                                                            <a href="#4"
-                                                                                class="map-item  single-map-item"><i
-                                                                                    class="fas fa-map-marker-alt"></i>
-                                                                                70 Bright St, Jersey City, NJ USA</a>
-                                                                        </div>
-                                                                        <p>Lorem ipsum dolor sit amet, consectetur
-                                                                            adipiscing elit. Maecenas in pulvinar neque.
-                                                                            Nulla finibus lobortis pulvina</p>
-                                                                        <a href="listing-single.html"
+                                                                        
+                                                                        <h2><a href="javascript:void()">
+                                                                        Expert Teamwork</a></h2>
+                                                                        
+                                                                        <p>Showcasing the seamless collaboration of skilled professionals who bring expertise, precision, and dedication to every geo-spatial project.</p>
+                                                                        <a href="/contact"
                                                                             class="commentssubmit csb_color"
-                                                                            style="margin-top: 40px">View Details</a>
+                                                                            style="margin-top: 40px">Get in Touch</a>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -130,10 +118,8 @@
                                                                             About Our Agency</div>
                                                                         <h2>We are International <br> RealEstate Agency
                                                                         </h2>
-                                                                        <h5>Lorem ipsum dolor sit amet, consectetur
-                                                                            adipiscing elit. Ut nec tincidunt arcu, sit
-                                                                            amet fermentum sem.</h5>
-                                                                        <a href="about.html"
+                                                                        <p>Contours Limited bridges the gap in Liberia's land surveying and mapping industry, offering top-notch services to public and private sectors.</p>
+                                                                        <a href="/about-us"
                                                                             class="commentssubmit csb_color  custom-scroll-link"
                                                                             style="margin-top: 40px">Read more about
                                                                             us</a>
@@ -181,7 +167,8 @@
                                                                     <option>Choose Service</option>
                                                                     <option>Surveying</option>
                                                                     <option>Property Acquisition</option>
-                                                                    <option>Renting</option>
+                                                                    <option>Property Valuation</option>
+                                                                    <option>Documentation</option>
                                                                     <option>Other</option>
                                                                 </select>
                                                             </div>
@@ -241,31 +228,32 @@
                                     <div class="row">
                                         <div class="col-lg-5">
                                             <div class="about-title ab-hero">
-                                                <h2>Why Choose Our Properties </h2>
-                                                <h4>Check video presentation to find out more about us .</h4>
+                                                <h2>Why Choose Contours Ltd </h2>
+                                                <h4>Explore these features about Contours Ltd</h4>
                                             </div>
                                             <div class="services-opions">
                                                 <ul>
                                                     <li>
                                                         <i class="fal fa-headset"></i>
-                                                        <h4>24 Hours Support </h4>
-                                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                                                            do eiusmod tempor incididunt ut labore et dolore magna
-                                                            aliqua.</p>
+                                                        <h4>Proven Track Record</h4>
+                                                        <p>With a portfolio of successful projects across various industries, we have built a reputation for delivering high-quality results on time and within budget.</p>
                                                     </li>
                                                     <li>
                                                         <i class="fal fa-users-cog"></i>
-                                                        <h4>User Admin Panel</h4>
-                                                        <p>Nulla posuere sapien vitae lectus suscipit, et pulvinar nisi
-                                                            tincidunt. Curabitur convallis fringilla diam sed aliquam.
+                                                        <h4>State-of-the-Art Technology</h4>
+                                                        <p>
+                                                        We utilize cutting-edge tools and technologies, from advanced surveying equipment to drone mapping and LiDAR, to deliver accurate and reliable results every time.
                                                         </p>
                                                     </li>
                                                     <li>
                                                         <i class="fal fa-phone-laptop"></i>
-                                                        <h4>Mobile Friendly</h4>
-                                                        <p>Curabitur convallis fringilla diam sed aliquam. Sed tempor
-                                                            iaculis massa faucibus feugiat. In fermentum facilisis
-                                                            massa.</p>
+                                                        <h4>Client-Centric Approach</h4>
+                                                        <p>Your satisfaction is our priority. We tailor our services to meet your specific needs, providing customized solutions that align with your project goals.</p>
+                                                    </li>
+                                                    <li>
+                                                        <i class="fal fa-phone-laptop"></i>
+                                                        <h4>Unmatched Expertise</h4>
+                                                        <p>Our team is composed of industry-leading professionals with years of experience in geo-spatial solutions, ensuring your projects are handled with the utmost precision and care.</p>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -274,9 +262,9 @@
                                             <div class="about-img">
                                                 <img src="images/all/15.jpg" class="respimg" alt="">
                                                 <div class="about-img-hotifer">
-                                                    <p>Your website is fully responsive so visitors can view your
-                                                        content from their choice of device.</p>
-                                                    <h4>Mark Antony</h4>
+                                                    <p>Contours Limited is a full-service Land Surveying & Mapping and Geo-informatics
+                                                    company in Liberia.</p>
+                                                    <h4>Albert D. Giah Jr</h4>
                                                     <h5> CEO</h5>
                                                 </div>
                                             </div>
@@ -284,51 +272,48 @@
                                     </div>
                                 </div>
                             </div>
-                            <!-- clients-carousel-wrap-->
-                            <div class="clients-carousel-wrap">
+                            
+                        
+                            <!-- <div class="clients-carousel-wrap">
                                 <div class="clients-carousel-title">Our Trusted Partners </div>
                                 <div class="clients-carousel">
                                     <div class="swiper-container">
                                         <div class="swiper-wrapper">
-                                            <!--client-item-->
+                                            
                                             <div class="swiper-slide">
                                                 <a href="#" class="client-item"><img src="images/clients/1.png"
                                                         alt=""></a>
                                             </div>
-                                            <!--client-item end-->
-                                            <!--client-item-->
+            
                                             <div class="swiper-slide">
                                                 <a href="#" class="client-item"><img src="images/clients/2.png"
                                                         alt=""></a>
                                             </div>
-                                            <!--client-item end-->
-                                            <!--client-item-->
+            
                                             <div class="swiper-slide">
                                                 <a href="#" class="client-item"><img src="images/clients/3.png"
                                                         alt=""></a>
                                             </div>
-                                            <!--client-item end-->
-                                            <!--client-item-->
+            
                                             <div class="swiper-slide">
                                                 <a href="#" class="client-item"><img src="images/clients/4.png"
                                                         alt=""></a>
                                             </div>
-                                            <!--client-item end-->
-                                            <!--client-item-->
+            
                                             <div class="swiper-slide">
                                                 <a href="#" class="client-item"><img src="images/clients/5.png"
                                                         alt=""></a>
                                             </div>
-                                            <!--client-item end-->
-                                        </div>
+                                
                                     </div>
                                     <div class="cc-button cc-button-next"><i class="fal fa-angle-right"></i></div>
                                     <div class="cc-button cc-button-prev"><i class="fal fa-angle-left"></i></div>
                                 </div>
-                            </div>
-                            <!-- clients-carousel-wrap end-->
+                            </div> -->
+                            
                         </div>
                     </div>
+
                     <!--container end-->
                     <div class="parallax-section-wrap">
                         <div class="bg-wrap    fs-wrapper" data-scrollax-parent="true">
