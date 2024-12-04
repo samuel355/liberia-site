@@ -234,24 +234,24 @@
                                             <div class="services-opions">
                                                 <ul>
                                                     <li>
-                                                        <i class="fal fa-headset"></i>
+                                                        <i class="fal fa-shield"></i>
                                                         <h4>Proven Track Record</h4>
                                                         <p>With a portfolio of successful projects across various industries, we have built a reputation for delivering high-quality results on time and within budget.</p>
                                                     </li>
                                                     <li>
-                                                        <i class="fal fa-users-cog"></i>
+                                                        <i class="fal fa-phone-laptop"></i>
                                                         <h4>State-of-the-Art Technology</h4>
                                                         <p>
                                                         We utilize cutting-edge tools and technologies, from advanced surveying equipment to drone mapping and LiDAR, to deliver accurate and reliable results every time.
                                                         </p>
                                                     </li>
                                                     <li>
-                                                        <i class="fal fa-phone-laptop"></i>
+                                                        <i class="fal fa-users"></i>
                                                         <h4>Client-Centric Approach</h4>
                                                         <p>Your satisfaction is our priority. We tailor our services to meet your specific needs, providing customized solutions that align with your project goals.</p>
                                                     </li>
                                                     <li>
-                                                        <i class="fal fa-phone-laptop"></i>
+                                                        <i class="fal fa-cogs"></i>
                                                         <h4>Unmatched Expertise</h4>
                                                         <p>Our team is composed of industry-leading professionals with years of experience in geo-spatial solutions, ensuring your projects are handled with the utmost precision and care.</p>
                                                     </li>
@@ -272,7 +272,6 @@
                                     </div>
                                 </div>
                             </div>
-                            
                         
                             <!-- <div class="clients-carousel-wrap">
                                 <div class="clients-carousel-title">Our Trusted Partners </div>
@@ -325,13 +324,10 @@
                             <div class="row">
                                 <div class="col-lg-4">
                                     <div class="parallax-section-content">
-                                        <h3>How Our Platform Works</h3>
-                                        <p>In ut odio libero, at vulputate urna. Nulla tristique mi a massa convallis
-                                            cursus. Nulla eu mi magna. Etiam suscipit commodo gravida. Lorem ipsum dolor
-                                            sit amet, conse ctetuer adipiscing elit, sed diam nonu mmy
-                                            nibh euismod tincidunt ut laoreet dolore magna aliquam erat</p>
-                                        <a href="add-listing.html" class="commentssubmit csb_color "
-                                            style="margin-top: 20px">Add Your Propperty</a>
+                                        <h3>The Services we render</h3>
+                                        <p>Contours Limited is a leading land surveying and mapping service provider. Using cutting-edge tools, we empower businesses and individuals to make informed decisions about land use and spatial planning.</p>
+                                        <a href="/services" class="commentssubmit csb_color "
+                                            style="margin-top: 20px">View All Services</a>
                                     </div>
                                 </div>
                                 <div class="col-lg-8">
@@ -341,10 +337,10 @@
                                                 <div class="process-item">
                                                     <span class="process-count">01 . </span>
                                                     <div class="process-item-icon"><i
-                                                            class="fa-light fa-house-building"></i></div>
-                                                    <h4> Find Interesting Place</h4>
-                                                    <p>Proin dapibus nisl ornare diam varius tempus. Aenean a quam
-                                                        luctus, finibus tellus ut, convallis eros sollicitudin turpis.
+                                                            class="fa-light fa-mailbox"></i></div>
+                                                    <h4> Land Surveying and Mapping</h4>
+                                                    <p>
+                                                        We provide comprehensive land surveying services, including parcel delineation to define property boundaries and more
                                                     </p>
                                                 </div>
                                                 <span class="pr-dec"></span>
@@ -352,12 +348,12 @@
                                             <li>
                                                 <div class="process-item">
                                                     <span class="process-count">02 .</span>
-                                                    <div class="process-item-icon"><i class="fa-light fa-mailbox"></i>
+                                                    <div class="process-item-icon"><i class="fa-light fa-house-building"></i>
                                                     </div>
-                                                    <h4> Contact a Few Owners</h4>
-                                                    <p>Faucibus ante, in porttitor tellus blandit et. Phasellus
-                                                        tincidunt metus lectus sollicitudin feugiat pharetra
-                                                        consectetur.</p>
+                                                    <h4> Property Valuation</h4>
+                                                    <p>
+                                                    Our services include property valuation for accurate assessments, data management for efficient organization and maintenance of property records, and providing infrastructure insights
+                                                    </p>
                                                 </div>
                                                 <span class="pr-dec"></span>
                                             </li>
@@ -366,9 +362,10 @@
                                                     <span class="process-count">03 .</span>
                                                     <div class="process-item-icon"><i
                                                             class="fa-light fa-layer-plus"></i></div>
-                                                    <h4> Make a Listing</h4>
-                                                    <p>Maecenas pulvinar, risus in facilisis dignissim, quam nisi
-                                                        hendrerit nulla, id vestibulum metus nullam viverra porta.</p>
+                                                    <h4> Construction Services</h4>
+                                                    <p>
+                                                    Our construction services ensure quality and precision, offering project planning and management for seamless execution, site preparation and excavation for efficient groundwork, structural construction for residential, commercial, and industrial buildings.
+                                                    </p>
                                                 </div>
                                             </li>
                                         </ul>
