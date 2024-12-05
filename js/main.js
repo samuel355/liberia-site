@@ -301,10 +301,14 @@ function initRenstate() {
       centeredSlides: true,
       slidesPerView: 3,
       spaceBetween: 20,
-      speed: 1400,
+      speed: 1000,
       navigation: {
         nextEl: ".tc-button-next",
         prevEl: ".tc-button-prev",
+      },
+      autoplay: {
+        delay: 6000,
+        disableOnInteraction: false,
       },
       pagination: {
         el: ".tcs-pagination_init",
@@ -367,7 +371,10 @@ function initRenstate() {
         nextEl: ".ac-button-next",
         prevEl: ".ac-button-prev",
       },
-
+      autoplay: {
+        delay: 2000,
+        disableOnInteraction: false,
+      },
       breakpoints: {
         1064: {
           slidesPerView: 2,
