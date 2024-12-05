@@ -48,10 +48,10 @@
                                                                 <div class="hero-carousel_item"
                                                                     data-imbg="images/bg/12.jpg">
                                                                     <div class="hero-section-title hs_align-title">
-                                                                        
+
                                                                         <h2><a href="javascript:void()">
-                                                                        Expert Teamwork</a></h2>
-                                                                        
+                                                                                Expert Teamwork</a></h2>
+
                                                                         <p>Showcasing the seamless collaboration of skilled professionals who bring expertise, precision, and dedication to every geo-spatial project.</p>
                                                                         <a href="/contact"
                                                                             class="commentssubmit csb_color"
@@ -106,6 +106,12 @@
                                                             <div class="cs-intputwrap">
                                                                 <i class="fa-light fa-phone"></i>
                                                                 <input type="text" placeholder="Contact" value="">
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-lg-12">
+                                                            <div class="cs-intputwrap">
+                                                                <i class="fa-light fa-envelope"></i>
+                                                                <input type="email" placeholder="Email Address" value="">
                                                             </div>
                                                         </div>
                                                         <!-- listsearch-input-item -->
@@ -170,7 +176,16 @@
                 <!--hero section-end-->
 
                 <!--main-content-->
-                <div class="main-content ms_vir_height">
+                <div class="main-content ms_vir_height chat-icon">
+                    <!-- Chat Icon on page -->
+                    <div class="header-search-btn tolt"
+                        style="position: fixed; bottom: 15px; right: 0; padding: 15px; border: 2px solid green; background-color: white; border-radius: 50%; z-index:99; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); display: flex; align-items: center; justify-content: center; width: 50px; height: 50px;"
+                        data-microtip-position="bottom"
+                        data-tooltip="Search">
+                        <i class="fa-regular fa-comments" style="position: relative; z-index: 999;"></i>
+                    </div>
+
+
                     <!--container -->
                     <div class="container">
                         <div class="boxed-container">
@@ -179,7 +194,7 @@
                                     <div class="row">
                                         <div class="col-lg-5">
                                             <div class="about-title ab-hero">
-                                                <h2>Why Choose Contours Ltd         <?php echo htmlspecialchars($pageTitle) ?> </h2>
+                                                <h2>Why Choose Contours Ltd <?php echo htmlspecialchars($pageTitle) ?> </h2>
                                                 <h4>Explore these features about Contours Ltd</h4>
                                             </div>
                                             <div class="services-opions">
@@ -193,7 +208,7 @@
                                                         <i class="fal fa-phone-laptop"></i>
                                                         <h4>State-of-the-Art Technology</h4>
                                                         <p>
-                                                        We utilize cutting-edge tools and technologies, from advanced surveying equipment to drone mapping and LiDAR, to deliver accurate and reliable results every time.
+                                                            We utilize cutting-edge tools and technologies, from advanced surveying equipment to drone mapping and LiDAR, to deliver accurate and reliable results every time.
                                                         </p>
                                                     </li>
                                                     <li>
@@ -214,7 +229,7 @@
                                                 <img src="images/all/15.jpg" class="respimg" alt="">
                                                 <div class="about-img-hotifer">
                                                     <p>Contours Limited is a full-service Land Surveying & Mapping and Geo-informatics
-                                                    company in Liberia.</p>
+                                                        company in Liberia.</p>
                                                     <h4>Albert D. Giah Jr</h4>
                                                     <h5> CEO</h5>
                                                 </div>
@@ -223,7 +238,7 @@
                                     </div>
                                 </div>
                             </div>
-                        
+
                             <!-- <div class="clients-carousel-wrap">
                                 <div class="clients-carousel-title">Our Trusted Partners </div>
                                 <div class="clients-carousel">
@@ -260,7 +275,7 @@
                                     <div class="cc-button cc-button-prev"><i class="fal fa-angle-left"></i></div>
                                 </div>
                             </div> -->
-                            
+
                         </div>
                     </div>
 
@@ -303,7 +318,7 @@
                                                     </div>
                                                     <h4> Property Valuation</h4>
                                                     <p>
-                                                    Our services include property valuation for accurate assessments, data management for efficient organization and maintenance of property records, and providing infrastructure insights
+                                                        Our services include property valuation for accurate assessments, data management for efficient organization and maintenance of property records, and providing infrastructure insights
                                                     </p>
                                                 </div>
                                                 <span class="pr-dec"></span>
@@ -315,7 +330,7 @@
                                                             class="fa-light fa-layer-plus"></i></div>
                                                     <h4> Construction Services</h4>
                                                     <p>
-                                                    Our construction services ensure quality and precision, offering project planning and management for seamless execution, site preparation and excavation for efficient groundwork, structural construction for residential, commercial, and industrial buildings.
+                                                        Our construction services ensure quality and precision, offering project planning and management for seamless execution, site preparation and excavation for efficient groundwork, structural construction for residential, commercial, and industrial buildings.
                                                     </p>
                                                 </div>
                                             </li>

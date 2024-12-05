@@ -8863,3 +8863,13 @@ nav li ul a:after {
         background-position: center;
     }
 }
+
+.chat-icon{
+    display: none;
+}
+
+@media screen and (max-width:768px) {
+    .chat-icon{
+        display: block;
+    }
+}
