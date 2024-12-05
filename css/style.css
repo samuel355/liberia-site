@@ -8865,11 +8865,11 @@ nav li ul a:after {
 }
 
 .chat-icon{
-    display: none;
+    display: none !important;
 }
 
 @media screen and (max-width:768px) {
     .chat-icon{
-        display: block;
+        display: flex !important;
     }
 }
