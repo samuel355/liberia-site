@@ -24,6 +24,7 @@
         <!--header-end-->
         <!--warpper-->
         <div class="wrapper">
+            <?php include_once('includes/chat-icon.php') ?>
             <!--content-->
             <div class="content">
                 <!--section-->

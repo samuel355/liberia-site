@@ -12,6 +12,7 @@
         <!--header-end-->
         <!--warpper-->
         <div class="wrapper">
+            <?php include_once('includes/chat-icon.php') ?>
             <!--content-->
             <div class="content">
                 <!--section-->
@@ -157,6 +158,24 @@
                                                                     <div class="cs-intputwrap">
                                                                         <i class="fa-light fa-phone"></i>
                                                                         <input type="text" name="phone" id="phone" placeholder="Contact" onClick="this.select()" value="">
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="row">
+                                                                <div class="col-sm-12">
+                                                                    <div class="col-lg-12">
+                                                                        <div class="cs-intputwrap">
+                                                                            <i class="fa-light fa-layer-group"></i>
+                                                                            <select data-placeholder="Categories"
+                                                                                class="chosen-select on-radius no-search-select">
+                                                                                <option>Choose Service</option>
+                                                                                <option>Surveying</option>
+                                                                                <option>Property Acquisition</option>
+                                                                                <option>Property Valuation</option>
+                                                                                <option>Documentation</option>
+                                                                                <option>Other</option>
+                                                                            </select>
+                                                                        </div>
                                                                     </div>
                                                                 </div>
                                                             </div>

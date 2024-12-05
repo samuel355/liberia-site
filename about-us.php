@@ -9,11 +9,12 @@
     <div id="main">
         <!--header-->
         <?php include_once('includes/header.php') ?>
-        
+
         <div class="body-overlay fs-wrapper search-form-overlay close-search-form"></div>
         <!--header-end-->
         <!--warpper-->
         <div class="wrapper">
+            <?php include_once('includes/chat-icon.php') ?>
             <!--content-->
             <div class="content">
                 <!--section-->
