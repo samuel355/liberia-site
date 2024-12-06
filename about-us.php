@@ -202,10 +202,10 @@
                                                         <div class="overlay"></div>
                                                         <div class="acim-wrap">
                                                             <ul>
-                                                                <li><a href="#" target="_blank"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                                                <li><a href="#" target="_blank"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                                                <li><a href="#" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
-                                                                <li><a href="#" target="_blank"><i class="fa-brands fa-tiktok"></i></a></li>
+                                                                <li><a href="#" ><i class="fa-brands fa-facebook-f"></i></a></li>
+                                                                <li><a href="#" ><i class="fa-brands fa-x-twitter"></i></a></li>
+                                                                <li><a href="#" ><i class="fa-brands fa-instagram"></i></a></li>
+                                                                <li><a href="#" ><i class="fa-brands fa-tiktok"></i></a></li>
                                                             </ul>
                                                         </div>
                                                     </div>
@@ -247,9 +247,9 @@
                                                         <div class="overlay"></div>
                                                         <div class="acim-wrap">
                                                             <ul>
-                                                                <li><a href="#" target="_blank"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                                                <li><a href="#" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
-                                                                <li><a href="#" target="_blank"><i class="fa-brands fa-tiktok"></i></a></li>
+                                                                <li><a href="#" ><i class="fa-brands fa-facebook-f"></i></a></li>
+                                                                <li><a href="#" ><i class="fa-brands fa-instagram"></i></a></li>
+                                                                <li><a href="#" ><i class="fa-brands fa-tiktok"></i></a></li>
                                                             </ul>
                                                         </div>
                                                     </div>
@@ -291,10 +291,10 @@
                                                         <div class="overlay"></div>
                                                         <div class="acim-wrap">
                                                             <ul>
-                                                                <li><a href="#" target="_blank"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                                                <li><a href="#" target="_blank"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                                                <li><a href="#" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
-                                                                <li><a href="#" target="_blank"><i class="fa-brands fa-tiktok"></i></a></li>
+                                                                <li><a href="#" ><i class="fa-brands fa-facebook-f"></i></a></li>
+                                                                <li><a href="#" ><i class="fa-brands fa-x-twitter"></i></a></li>
+                                                                <li><a href="#" ><i class="fa-brands fa-instagram"></i></a></li>
+                                                                <li><a href="#" ><i class="fa-brands fa-tiktok"></i></a></li>
                                                             </ul>
                                                         </div>
                                                     </div>
@@ -336,10 +336,10 @@
                                                         <div class="overlay"></div>
                                                         <div class="acim-wrap">
                                                             <ul>
-                                                                <li><a href="#" target="_blank"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                                                <li><a href="#" target="_blank"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                                                <li><a href="#" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
-                                                                <li><a href="#" target="_blank"><i class="fa-brands fa-tiktok"></i></a></li>
+                                                                <li><a href="#" ><i class="fa-brands fa-facebook-f"></i></a></li>
+                                                                <li><a href="#" ><i class="fa-brands fa-x-twitter"></i></a></li>
+                                                                <li><a href="#" ><i class="fa-brands fa-instagram"></i></a></li>
+                                                                <li><a href="#" ><i class="fa-brands fa-tiktok"></i></a></li>
                                                             </ul>
                                                         </div>
                                                     </div>

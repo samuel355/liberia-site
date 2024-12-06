@@ -114,11 +114,11 @@
                                         <div class="contact-social">
                                             <span class="cs-title">Find us on: </span>
                                             <div class="contact-social-container">
-                                                <a href="#" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
-                                                <a href="#" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
-                                                <a href="#" target="_blank"><i class="fa-brands fa-instagram"></i></a>
-                                                <a href="#" target="_blank"><i class="fa-brands fa-tiktok"></i></a>
-                                                <a href="#" target="_blank"><i class="fa-brands fa-youtube"></i></a>
+                                                <a href="#" ><i class="fa-brands fa-facebook-f"></i></a>
+                                                <a href="#" ><i class="fa-brands fa-x-twitter"></i></a>
+                                                <a href="#" ><i class="fa-brands fa-instagram"></i></a>
+                                                <a href="#" ><i class="fa-brands fa-tiktok"></i></a>
+                                                <a href="#" ><i class="fa-brands fa-youtube"></i></a>
                                             </div>
                                         </div>
                                     </div>

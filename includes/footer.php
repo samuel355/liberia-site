@@ -39,8 +39,8 @@
               <div class="footer-list footer-box  ">
                 <ul class="footer-contacts  ">
                   <li><span>Mail :</span><a href="#"
-                      target="_blank">info@consult.com</a></li>
-                  <li> <span>Adress :</span><a href="#" target="_blank">Liberia 27TH Brooklyn
+                      >info@consult.com</a></li>
+                  <li> <span>Adress :</span><a href="#" >Liberia 27TH Brooklyn
                       ST</a></li>
                   <li><span>Phone :</span><a href="#">+233 123456789</a></li>
                 </ul>
@@ -78,11 +78,11 @@
       <div class="footer-social">
         <span class="footer-social-title">Follow Us</span>
         <div class="footer-social-wrap">
-          <a href="#" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
-          <a href="#" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
-          <a href="#" target="_blank"><i class="fa-brands fa-instagram"></i></a>
-          <a href="#" target="_blank"><i class="fa-brands fa-tiktok"></i></a>
-          <a href="#" target="_blank"><i class="fa-brands fa-youtube"></i></a>
+          <a href="#" ><i class="fa-brands fa-facebook-f"></i></a>
+          <a href="#" ><i class="fa-brands fa-x-twitter"></i></a>
+          <a href="#" ><i class="fa-brands fa-instagram"></i></a>
+          <a href="#" ><i class="fa-brands fa-tiktok"></i></a>
+          <a href="#" ><i class="fa-brands fa-youtube"></i></a>
         </div>
       </div>
     </div>

@@ -342,212 +342,8 @@
           <?php include_once('includes/testimonials.php') ?>
           <!-- Testimonials section end  -->
 
-          <!-- Agents -->
-          <div class="container">
-            <div class="section-title">
-              <h4>Our Team</h4>
-              <h2>Meet our Staff</h2>
-            </div>
-          </div>
-          <div class="agent-bg-section">
-            <div class="fw_car_title-wrap">
-              <div class="fw_car_title">
-                <h3>Meet Our Agents</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. Donec a consectetur nulla. </p>
-              </div>
-            </div>
-            <div class="agent-carousel_controls">
-              <div class="ac-button ac-button-prev"><i class="fas fa-caret-left"></i></div>
-              <div class="ac-button ac-button-next"><i class="fas fa-caret-right"></i></div>
-            </div>
-            <div class="agnet-carousel-wrap">
-              <div class="agnet-carousel">
-                <div class="swiper-container">
-                  <div class="swiper-wrapper">
-                    <!--agent-card-item-->
-                    <div class="swiper-slide">
-                      <div class="agent-card-item">
-                        <div class="agent-card-item_media">
-                          <div class="agent-card-item_media-wrap">
-                            <img src="images/agents/1.jpg" alt="" class="respimg">
-                            <div class="overlay"></div>
-                            <div class="acim-wrap">
-                              <ul>
-                                <li><a href="#" target="_blank"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                <li><a href="#" target="_blank"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                <li><a href="#" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
-                                <li><a href="#" target="_blank"><i class="fa-brands fa-tiktok"></i></a></li>
-                              </ul>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="agent-card-item_text">
-                          <div class="agent-card-item_text-item">
-                            <h4><a href="agent-single.html">Niko Furingee</a></h4>
-                            <p>Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
-                            <div class="post-card-details">
-                              <ul>
-                                <li><i class="fa-regular fa-house-building"></i><span>12 Properties</span></li>
-                                <li><i class="fa-light fa-glasses"></i><span>3567 Views</span></li>
-                              </ul>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="agent-card-item_footer sh-links">
-                          <a href="agent-single.html" class="post-card_link">View Details <i class="fa-solid fa-caret-right"></i></a>
-                          <div class="property-contacts-links">
-                            <a href="tel:+18475555555" class="tolt pcl_btn" data-microtip-position="left" data-tooltip="Call"><i class="fa-solid fa-phone"></i></a>
-                            <a href="#" class="show-messenger-links pcl_btn tolt" data-microtip-position="left" data-tooltip="Write Message"><i class="fa-solid fa-message-sms"></i></a>
-                          </div>
-                          <div class="messenger-links-container">
-                            <a href="#" class="tolt" data-microtip-position="bottom" data-tooltip="Viber"><i class="fa-brands fa-viber"></i></a>
-                            <a href="#" class="tolt" data-microtip-position="bottom" data-tooltip="Whatsapp"><i class="fa-brands fa-whatsapp"></i></a>
-                            <a href="#" class="tolt" data-microtip-position="bottom" data-tooltip="Telegram"><i class="fa-brands fa-telegram"></i></a>
-                            <a href="#" class="tolt" data-microtip-position="bottom" data-tooltip="Facebook"><i class="fa-brands fa-facebook-messenger"></i></a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <!--agent-card-item end-->
-                    <!--agent-card-item-->
-                    <div class="swiper-slide">
-                      <div class="agent-card-item">
-                        <div class="agent-card-item_media">
-                          <div class="agent-card-item_media-wrap">
-                            <img src="images/agents/2.jpg" alt="" class="respimg">
-                            <div class="overlay"></div>
-                            <div class="acim-wrap">
-                              <ul>
-                                <li><a href="#" target="_blank"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                <li><a href="#" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
-                                <li><a href="#" target="_blank"><i class="fa-brands fa-tiktok"></i></a></li>
-                              </ul>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="agent-card-item_text">
-                          <div class="agent-card-item_text-item">
-                            <h4><a href="agent-single.html">Anna Lips</a></h4>
-                            <p>Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
-                            <div class="post-card-details">
-                              <ul>
-                                <li><i class="fa-regular fa-house-building"></i><span>6 Properties</span></li>
-                                <li><i class="fa-light fa-glasses"></i><span>8976 Views</span></li>
-                              </ul>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="agent-card-item_footer sh-links">
-                          <a href="agent-single.html" class="post-card_link">View Details <i class="fa-solid fa-caret-right"></i></a>
-                          <div class="property-contacts-links">
-                            <a href="tel:+18475555555" class="tolt pcl_btn" data-microtip-position="left" data-tooltip="Call"><i class="fa-solid fa-phone"></i></a>
-                            <a href="#" class="show-messenger-links pcl_btn tolt" data-microtip-position="left" data-tooltip="Write Message"><i class="fa-solid fa-message-sms"></i></a>
-                          </div>
-                          <div class="messenger-links-container">
-                            <a href="#" class="tolt" data-microtip-position="bottom" data-tooltip="Viber"><i class="fa-brands fa-viber"></i></a>
-                            <a href="#" class="tolt" data-microtip-position="bottom" data-tooltip="Whatsapp"><i class="fa-brands fa-whatsapp"></i></a>
-                            <a href="#" class="tolt" data-microtip-position="bottom" data-tooltip="Telegram"><i class="fa-brands fa-telegram"></i></a>
-                            <a href="#" class="tolt" data-microtip-position="bottom" data-tooltip="Facebook"><i class="fa-brands fa-facebook-messenger"></i></a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <!--agent-card-item end-->
-                    <!--agent-card-item-->
-                    <div class="swiper-slide">
-                      <div class="agent-card-item">
-                        <div class="agent-card-item_media">
-                          <div class="agent-card-item_media-wrap">
-                            <img src="images/agents/3.jpg" alt="" class="respimg">
-                            <div class="overlay"></div>
-                            <div class="acim-wrap">
-                              <ul>
-                                <li><a href="#" target="_blank"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                <li><a href="#" target="_blank"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                <li><a href="#" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
-                                <li><a href="#" target="_blank"><i class="fa-brands fa-tiktok"></i></a></li>
-                              </ul>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="agent-card-item_text">
-                          <div class="agent-card-item_text-item">
-                            <h4><a href="agent-single.html">Martin Smith</a></h4>
-                            <p>Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
-                            <div class="post-card-details">
-                              <ul>
-                                <li><i class="fa-regular fa-house-building"></i><span>24 Properties</span></li>
-                                <li><i class="fa-light fa-glasses"></i><span>5462 Views</span></li>
-                              </ul>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="agent-card-item_footer sh-links">
-                          <a href="agent-single.html" class="post-card_link">View Details <i class="fa-solid fa-caret-right"></i></a>
-                          <div class="property-contacts-links">
-                            <a href="tel:+18475555555" class="tolt pcl_btn" data-microtip-position="left" data-tooltip="Call"><i class="fa-solid fa-phone"></i></a>
-                            <a href="#" class="show-messenger-links pcl_btn tolt" data-microtip-position="left" data-tooltip="Write Message"><i class="fa-solid fa-message-sms"></i></a>
-                          </div>
-                          <div class="messenger-links-container">
-                            <a href="#" class="tolt" data-microtip-position="bottom" data-tooltip="Viber"><i class="fa-brands fa-viber"></i></a>
-                            <a href="#" class="tolt" data-microtip-position="bottom" data-tooltip="Whatsapp"><i class="fa-brands fa-whatsapp"></i></a>
-                            <a href="#" class="tolt" data-microtip-position="bottom" data-tooltip="Telegram"><i class="fa-brands fa-telegram"></i></a>
-                            <a href="#" class="tolt" data-microtip-position="bottom" data-tooltip="Facebook"><i class="fa-brands fa-facebook-messenger"></i></a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <!--agent-card-item end-->
-                    <!--agent-card-item-->
-                    <div class="swiper-slide">
-                      <div class="agent-card-item">
-                        <div class="agent-card-item_media">
-                          <div class="agent-card-item_media-wrap">
-                            <img src="images/agents/4.jpg" alt="" class="respimg">
-                            <div class="overlay"></div>
-                            <div class="acim-wrap">
-                              <ul>
-                                <li><a href="#" target="_blank"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                <li><a href="#" target="_blank"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                <li><a href="#" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
-                                <li><a href="#" target="_blank"><i class="fa-brands fa-tiktok"></i></a></li>
-                              </ul>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="agent-card-item_text">
-                          <div class="agent-card-item_text-item">
-                            <h4><a href="agent-single.html">Liza Rose</a></h4>
-                            <p>Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
-                            <div class="post-card-details">
-                              <ul>
-                                <li><i class="fa-regular fa-house-building"></i><span>7 Properties</span></li>
-                                <li><i class="fa-light fa-glasses"></i><span>7897 Views</span></li>
-                              </ul>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="agent-card-item_footer sh-links">
-                          <a href="agent-single.html" class="post-card_link">View Details <i class="fa-solid fa-caret-right"></i></a>
-                          <div class="property-contacts-links">
-                            <a href="tel:+18475555555" class="tolt pcl_btn" data-microtip-position="left" data-tooltip="Call"><i class="fa-solid fa-phone"></i></a>
-                            <a href="#" class="show-messenger-links pcl_btn tolt" data-microtip-position="left" data-tooltip="Write Message"><i class="fa-solid fa-message-sms"></i></a>
-                          </div>
-                          <div class="messenger-links-container">
-                            <a href="#" class="tolt" data-microtip-position="bottom" data-tooltip="Viber"><i class="fa-brands fa-viber"></i></a>
-                            <a href="#" class="tolt" data-microtip-position="bottom" data-tooltip="Whatsapp"><i class="fa-brands fa-whatsapp"></i></a>
-                            <a href="#" class="tolt" data-microtip-position="bottom" data-tooltip="Telegram"><i class="fa-brands fa-telegram"></i></a>
-                            <a href="#" class="tolt" data-microtip-position="bottom" data-tooltip="Facebook"><i class="fa-brands fa-facebook-messenger"></i></a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <!--agent-card-item end-->
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
+          <!-- Team /Staff -->
+          <?php include_once('includes/team.php') ?>
 
           <!-- section end  -->
           <?php include_once('includes/cta-arch-design.php') ?>
@@ -562,21 +358,21 @@
       <!--main-footer end-->
     </div>
     <!--warpper end-->
-    
-    
+
+
     <div class="body-overlay fs-wrapper wishlist-wrap-overlay clwl_btn"></div>
     <div class="mob-nav-overlay fs-wrapper"></div>
-    
-    
+
+
     <!-- progress-bar  -->
     <div class="progress-bar-wrap">
       <div class="progress-bar color-bg"></div>
     </div>
     <!-- progress-bar end -->
-  
+
   </div>
   <!-- Main end -->
-   
+
   <!--=============== scripts  ===============-->
   <?php include_once('includes/script.php') ?>
 </body>

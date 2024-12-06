@@ -769,7 +769,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="testi-footer">
-                                                        <a href="#" class="testi-link" target="_blank">Via X-Twitter</a>
+                                                        <a href="#" class="testi-link" >Via X-Twitter</a>
                                                         <span class="testi-number">01.</span>
                                                     </div>
                                                 </div>
@@ -790,7 +790,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="testi-footer">
-                                                        <a href="#" class="testi-link" target="_blank">Via Facebook</a>
+                                                        <a href="#" class="testi-link" >Via Facebook</a>
                                                         <span class="testi-number">02.</span>
                                                     </div>
                                                 </div>
@@ -811,7 +811,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="testi-footer">
-                                                        <a href="#" class="testi-link" target="_blank">Via Instagram</a>
+                                                        <a href="#" class="testi-link" >Via Instagram</a>
                                                         <span class="testi-number">03.</span>
                                                     </div>
                                                 </div>
@@ -832,7 +832,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="testi-footer">
-                                                        <a href="#" class="testi-link" target="_blank">Via X-Twitter</a>
+                                                        <a href="#" class="testi-link" >Via X-Twitter</a>
                                                         <span class="testi-number">04.</span>
                                                     </div>
                                                 </div>
@@ -928,8 +928,8 @@
                                         <div class="footer-widget-content">
                                             <div class="footer-list footer-box  ">
                                                 <ul  class="footer-contacts  ">
-                                                    <li><span>Mail :</span><a href="#" target="_blank">yourmail@domain.com</a></li>
-                                                    <li> <span>Adress :</span><a href="#" target="_blank">USA 27TH Brooklyn NY</a></li>
+                                                    <li><span>Mail :</span><a href="#" >yourmail@domain.com</a></li>
+                                                    <li> <span>Adress :</span><a href="#" >USA 27TH Brooklyn NY</a></li>
                                                     <li><span>Phone :</span><a href="#">+2(111)123456789</a></li>
                                                 </ul>
                                                 <a href="contacts.html" class="footer-widget-content-link"><span>Get in Touch</span><i class="fa-solid fa-caret-right"></i></a>	
@@ -962,11 +962,11 @@
                             <div class="footer-social">
                                 <span class="footer-social-title">Follow Us</span>
                                 <div class="footer-social-wrap">
-                                    <a href="#" target="_blank"><i class="fa-brands fa-facebook-f"></i></a> 
-                                    <a href="#" target="_blank"><i class="fa-brands fa-x-twitter"></i></a> 
-                                    <a href="#" target="_blank"><i class="fa-brands fa-instagram"></i></a> 
-                                    <a href="#" target="_blank"><i class="fa-brands fa-tiktok"></i></a>
-                                    <a href="#" target="_blank"><i class="fa-brands fa-youtube"></i></a>										 
+                                    <a href="#" ><i class="fa-brands fa-facebook-f"></i></a> 
+                                    <a href="#" ><i class="fa-brands fa-x-twitter"></i></a> 
+                                    <a href="#" ><i class="fa-brands fa-instagram"></i></a> 
+                                    <a href="#" ><i class="fa-brands fa-tiktok"></i></a>
+                                    <a href="#" ><i class="fa-brands fa-youtube"></i></a>										 
                                 </div>
                             </div>
                         </div>

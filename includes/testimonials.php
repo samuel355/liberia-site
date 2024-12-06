@@ -31,7 +31,7 @@
                 </div>
               </div>
               <div class="testi-footer">
-                <a href="#" class="testi-link" target="_blank">Via X-Twitter</a>
+                <a href="#" class="testi-link" >Via X-Twitter</a>
                 <span class="testi-number">01.</span>
               </div>
             </div>
@@ -58,7 +58,7 @@
                 </div>
               </div>
               <div class="testi-footer">
-                <a href="#" class="testi-link" target="_blank">Via Facebook</a>
+                <a href="#" class="testi-link" >Via Facebook</a>
                 <span class="testi-number">02.</span>
               </div>
             </div>
@@ -85,7 +85,7 @@
                 </div>
               </div>
               <div class="testi-footer">
-                <a href="#" class="testi-link" target="_blank">Via Instagram</a>
+                <a href="#" class="testi-link" >Via Instagram</a>
                 <span class="testi-number">03.</span>
               </div>
             </div>
@@ -113,7 +113,7 @@
                 </div>
               </div>
               <div class="testi-footer">
-                <a href="#" class="testi-link" target="_blank">Via X-Twitter</a>
+                <a href="#" class="testi-link" >Via X-Twitter</a>
                 <span class="testi-number">04.</span>
               </div>
             </div>

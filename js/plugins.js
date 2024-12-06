@@ -640,7 +640,7 @@ jQuery.extend(jQuery.easing, {
         }
         a(".lg-backdrop").addClass("in"), setTimeout(function() {
             h.$outer.addClass("lg-visible")
-        }, this.s.backdropDuration), this.s.download && this.$outer.find(".lg-toolbar").append('<a id="lg-download" target="_blank" download class="lg-download lg-icon"></a>'), this.prevScrollTop = a(b).scrollTop()
+        }, this.s.backdropDuration), this.s.download && this.$outer.find(".lg-toolbar").append('<a id="lg-download"  download class="lg-download lg-icon"></a>'), this.prevScrollTop = a(b).scrollTop()
     }, e.prototype.setTop = function() {
         if ("100%" !== this.s.height) {
             var c = a(b).height(),

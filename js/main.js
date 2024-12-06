@@ -372,7 +372,7 @@ function initRenstate() {
         prevEl: ".ac-button-prev",
       },
       autoplay: {
-        delay: 2000,
+        delay: 6500,
         disableOnInteraction: false,
       },
       breakpoints: {
