@@ -97,24 +97,27 @@
                             <span>You Have any Enquiries?</span>
                           </div>
                         </div>
-                        <form class="custom-form" id="contact-form">
+                        <form class="custom-form" id="enquiry-hero-form">
                           <div class="row">
                             <div class="col-lg-12">
                               <div class="cs-intputwrap">
                                 <i class="fa-light fa-user"></i>
-                                <input type="text" placeholder="Full Name" value="">
+                                <input type="text" name="fullname" id="fullname" placeholder="Full Name" value="">
+                                <small class="fullname-error"></small>
                               </div>
                             </div>
                             <div class="col-lg-12">
                               <div class="cs-intputwrap">
                                 <i class="fa-light fa-phone"></i>
-                                <input type="text" placeholder="Contact" value="">
+                                <input id="phone" name="phone" type="text" placeholder="Contact" value="">
+                                <small class="phone-error"></small>
                               </div>
                             </div>
                             <div class="col-lg-12">
                               <div class="cs-intputwrap">
                                 <i class="fa-light fa-envelope"></i>
-                                <input type="email" placeholder="Email Address" value="">
+                                <input type="email" name="email" id="email" placeholder="Email Address" value="">
+                                <small class="email-error"></small>
                               </div>
                             </div>
                             <!-- listsearch-input-item -->
@@ -122,25 +125,27 @@
                             <div class="col-lg-12">
                               <div class="cs-intputwrap">
                                 <i class="fa-light fa-layer-group"></i>
-                                <select data-placeholder="Categories"
+                                <select id="service" name="service" data-placeholder="Categories"
                                   class="chosen-select on-radius no-search-select">
-                                  <option>Choose Service</option>
-                                  <option>Surveying</option>
-                                  <option>Property Acquisition</option>
-                                  <option>Property Valuation</option>
-                                  <option>Documentation</option>
-                                  <option>Other</option>
+                                  <option value="Choose Service">Choose Service</option>
+                                  <option value="Surveying" >Surveying</option>
+                                  <option value="Property Acquistion" >Property Acquisition</option>
+                                  <option value="Property Valuation" >Property Valuation</option>
+                                  <option value="Documentation" >Documentation</option>
+                                  <option value="Other">Other</option>
                                 </select>
+                                <small class="service-error"></small>
                               </div>
                             </div>
                             <div class="col-lg-12">
                               <div class="cs-intputwrap">
                                 <i class="fa-light fa-comments"></i>
-                                <input type="text" placeholder="Message" value="">
+                                <input name="message" id="message" type="text" placeholder="Message" value="">
+                                <span class="message-error" ></span>
                               </div>
                             </div>
                           </div>
-                          <button class="commentssubmit commentssubmit_fw">Submit</button>
+                          <button type="submit" class="commentssubmit commentssubmit_fw">Submit</button>
                         </form>
                       </div>
                     </div>
