@@ -63,7 +63,7 @@ td {
     outline: 0;
     font-weight: inherit;
     font-style: inherit;
-    font-size: 100%;
+    font-size: 15px;
     font-family: inherit;
     vertical-align: baseline;
     text-decoration: none;
@@ -41116,7 +41116,9 @@ button.swiper-pagination-bullet {
     padding-right: 29px;
     text-align: left;
     -webkit-transition: all .2s;
-    transition: all .2s
+    transition: all .2s;
+    font-size: 16px;
+    
 }
 
 .nice-select .option.focus,
@@ -41545,7 +41547,6 @@ body .pac-container {
     z-index: 5
 }
 
-,
 #autocomplete-input a {
     z-index: 101
 }
@@ -41777,9 +41778,9 @@ body .pac-container {
 
 .tolt[data-microtip-size="large"]::after {
     white-space: initial;
-    width: 260px
+    width: 260px;
 }
 
 .tolt {
-    position: relative
+    position: relative;
 }

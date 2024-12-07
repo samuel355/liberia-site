@@ -1,5 +1,5 @@
 <?php
-include_once ("db-connection.php");
+include_once("db-connection.php");
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   if (!isset($_POST['email']) || !filter_var(trim($_POST['email']), FILTER_VALIDATE_EMAIL)) {
@@ -31,13 +31,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     if ($stmt->execute()) {
       echo 'Success';
 
-      // $to = 'info@landandhomesconsult.com';
-      // $headers = "MIME-Version: 1.0\r\n";
-      // $headers .= "Content-type: text/html; charset=utf-8\r\n";
-      // $headers .= "From: Possible client <$email>\r\n";
-      // $headers .= "Reply-To: $email\r\n";
+      $to = 'enquiries@contourslimited.com';
+      $headers = "MIME-Version: 1.0\r\n";
+      $headers .= "Content-type: text/html; charset=utf-8\r\n";
+      $headers .= "From: Possible client <$email>\r\n";
+      $headers .= "Reply-To: $email\r\n";
 
-      // $subject = "Message from potential client";
+      $subject = "Message from potential client";
       // $messageSend = "
       //     <html>
       //         <body>
@@ -45,13 +45,86 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
       //             <p><strong>Full Name:</strong> $fullname</p>
       //             <p><strong>Email:</strong> $email</p>
       //             <p><strong>Phone:</strong> $phone</p>
+      //             <p><strong>Service:</strong> $service</p>
       //             <h4>Message</h4>
       //             <p>$message</p>
       //         </body>
       //     </html>
       // ";
 
-      // mail($to, $subject, $messageSend, $headers);
+      $messageSend = "
+        <!DOCTYPE html>
+          <html lang='en'>
+          <head>
+              <meta charset='UTF-8'>
+              <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+              <style>
+                  body {
+                      font-family: Arial, sans-serif;
+                      background-color: #f9f9f9;
+                      margin: 0;
+                      padding: 0;
+                  }
+                  .email-container {
+                      max-width: 600px;
+                      margin: 20px auto;
+                      background-color: #ffffff;
+                      border: 1px solid #e0e0e0;
+                      border-radius: 8px;
+                      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+                  }
+                  .header {
+                      background-color: #4CAF50;
+                      color: #ffffff;
+                      text-align: center;
+                      padding: 20px;
+                      border-radius: 8px 8px 0 0;
+                  }
+                  .content {
+                      padding: 20px;
+                      color: #333333;
+                  }
+                  .content p {
+                      margin: 10px 0;
+                      font-size: 16px;
+                  }
+                  .content .label {
+                      font-weight: bold;
+                      color: #4CAF50;
+                  }
+                  .footer {
+                      text-align: center;
+                      background-color: #f1f1f1;
+                      padding: 15px;
+                      border-radius: 0 0 8px 8px;
+                      font-size: 14px;
+                      color: #555555;
+                  }
+              </style>
+          </head>
+          <body>
+              <div class='email-container'>
+                  <div class='header'>
+                      <h1>New Enquiries Form Submission</h1>
+                  </div>
+                  <div class='content'>
+                      <p><span class='label'>Full Name:</span> $fullname</p>
+                      <p><span class='label'>Email:</span> $email</p>
+                      <p><span class='label'>Phone:</span> $phone</p>
+                      <p><span class='label'>Service:</span> $service</p>
+                      <p><span class='label'>Message:</span></p>
+                      <p>$message</p>
+                  </div>
+                  <div class='footer'>
+                      <p>&copy; Contours Ltd. All rights reserved.</p>
+                  </div>
+              </div>
+          </body>
+          </html>
+
+      ";
+
+      mail($to, $subject, $messageSend, $headers);
     } else {
       echo 'Failed to send the message. Please try again.';
     }
