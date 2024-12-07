@@ -20,8 +20,8 @@ $pageFile = basename($_SERVER['PHP_SELF']);
             <li class="<?php echo ($pageFile == 'services.php') ? 'nav-active' : ''; ?>">
               <a href="/services">Our Services</a>
             </li>
-            <li class="<?php echo ($pageFile == 'faqs.php') ? 'nav-active' : ''; ?>">
-              <a href="/faqs">FAQs</a>
+            <li class="<?php echo ($pageFile == 'our-team.php') ? 'nav-active' : ''; ?>">
+              <a href="/our-team">Our Team</a>
             </li>
             <li class="<?php echo ($pageFile == 'contact.php') ? 'nav-active' : ''; ?>">
               <a href="/contact">Contact Us</a>

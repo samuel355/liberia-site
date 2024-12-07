@@ -12,6 +12,9 @@ switch ($pageFile) {
   case 'about-us.php':
     $pageTitle = "About Us - Contours Ltd";
     break;
+  case 'our-team.php':
+    $pageTitle = "Our Team - Contours Ltd";
+    break;
   case 'services.php':
     $pageTitle = "Our Services - Contours Ltd";
     break;
