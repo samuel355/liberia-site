@@ -46,27 +46,27 @@ $pageFile = basename($_SERVER['PHP_SELF']);
                 <span>You Have any Enquiries?</span>
               </div>
             </div>
-            <form class="custom-form" id="enquiry-hero-form">
+            <form class="custom-form" id="chat-icon-form">
               <div class="row">
                 <div class="col-lg-12">
                   <div class="cs-intputwrap">
                     <i class="fa-light fa-user"></i>
-                    <input type="text" name="fullname" id="fullname" placeholder="Full Name" value="">
-                    <small class="fullname-error"></small>
+                    <input type="text" name="fullname" id="fullname-ci" placeholder="Full Name" value="">
+                    <small class="fullname-error-ci"></small>
                   </div>
                 </div>
                 <div class="col-lg-12">
                   <div class="cs-intputwrap">
                     <i class="fa-light fa-phone"></i>
-                    <input id="phone" name="phone" type="text" placeholder="Contact" value="">
-                    <small class="phone-error"></small>
+                    <input id="phone-ci" name="phone" type="text" placeholder="Contact" value="">
+                    <small class="phone-error-ci"></small>
                   </div>
                 </div>
                 <div class="col-lg-12">
                   <div class="cs-intputwrap">
                     <i class="fa-light fa-envelope"></i>
-                    <input type="email" name="email" id="email" placeholder="Email Address" value="">
-                    <small class="email-error"></small>
+                    <input type="email" name="email" id="email-ci" placeholder="Email Address" value="">
+                    <small class="email-error-ci"></small>
                   </div>
                 </div>
                 <!-- listsearch-input-item -->
@@ -74,7 +74,7 @@ $pageFile = basename($_SERVER['PHP_SELF']);
                 <div class="col-lg-12">
                   <div class="cs-intputwrap">
                     <i class="fa-light fa-layer-group"></i>
-                    <select id="service" name="service" data-placeholder="Categories"
+                    <select id="service-ci" name="service" data-placeholder="Categories"
                       class="chosen-select on-radius no-search-select">
                       <option value="Choose Service">Choose Service</option>
                       <option value="Surveying">Surveying</option>
@@ -83,14 +83,14 @@ $pageFile = basename($_SERVER['PHP_SELF']);
                       <option value="Documentation">Documentation</option>
                       <option value="Other">Other</option>
                     </select>
-                    <small class="service-error"></small>
+                    <small class="service-error-ci"></small>
                   </div>
                 </div>
                 <div class="col-lg-12">
                   <div class="cs-intputwrap">
                     <i class="fa-light fa-comments"></i>
-                    <input name="message" id="message" type="text" placeholder="Message" value="">
-                    <span class="message-error"></span>
+                    <input name="message" id="message-ci" type="text" placeholder="Message" value="">
+                    <span class="message-error-ci"></span>
                   </div>
                 </div>
               </div>

@@ -102,22 +102,22 @@
                             <div class="col-lg-12">
                               <div class="cs-intputwrap">
                                 <i class="fa-light fa-user"></i>
-                                <input type="text" name="fullname" id="fullname" placeholder="Full Name" value="">
-                                <small class="fullname-error"></small>
+                                <input type="text" name="fullname" id="fullname-hr" placeholder="Full Name" value="">
+                                <small class="fullname-error-hr"></small>
                               </div>
                             </div>
                             <div class="col-lg-12">
                               <div class="cs-intputwrap">
                                 <i class="fa-light fa-phone"></i>
-                                <input id="phone" name="phone" type="text" placeholder="Contact" value="">
-                                <small class="phone-error"></small>
+                                <input id="phone-hr" name="phone" type="text" placeholder="Contact" value="">
+                                <small class="phone-error-hr"></small>
                               </div>
                             </div>
                             <div class="col-lg-12">
                               <div class="cs-intputwrap">
                                 <i class="fa-light fa-envelope"></i>
-                                <input type="email" name="email" id="email" placeholder="Email Address" value="">
-                                <small class="email-error"></small>
+                                <input type="email" name="email" id="email-hr" placeholder="Email Address" value="">
+                                <small class="email-error-hr"></small>
                               </div>
                             </div>
                             <!-- listsearch-input-item -->
@@ -125,7 +125,7 @@
                             <div class="col-lg-12">
                               <div class="cs-intputwrap">
                                 <i class="fa-light fa-layer-group"></i>
-                                <select id="service" name="service" data-placeholder="Categories"
+                                <select id="service-hr" name="service" data-placeholder="Categories"
                                   class="chosen-select on-radius no-search-select">
                                   <option value="Choose Service">Choose Service</option>
                                   <option value="Surveying" >Surveying</option>
@@ -134,14 +134,14 @@
                                   <option value="Documentation" >Documentation</option>
                                   <option value="Other">Other</option>
                                 </select>
-                                <small class="service-error"></small>
+                                <small class="service-error-hr"></small>
                               </div>
                             </div>
                             <div class="col-lg-12">
                               <div class="cs-intputwrap">
                                 <i class="fa-light fa-comments"></i>
-                                <input name="message" id="message" type="text" placeholder="Message" value="">
-                                <span class="message-error" ></span>
+                                <input name="message" id="message-hr" type="text" placeholder="Message" value="">
+                                <span class="message-error-hr" ></span>
                               </div>
                             </div>
                           </div>

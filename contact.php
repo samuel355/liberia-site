@@ -135,14 +135,15 @@
                                             </div>
                                             <div class="boxed-content-item">
                                                 <div class="comment-form custom-form contactform-wrap">
-                                                    <form class="comment-form" action="" name="contactform" id="contact-form">
+                                                    <form class="comment-form" name="contactform" id="contact-page-form">
                                                         <fieldset>
                                                             <div id="message"></div>
                                                             <div class="row">
                                                                 <div class="col-sm-12">
                                                                     <div class="cs-intputwrap">
                                                                         <i class="fa-light fa-user"></i>
-                                                                        <input name="name" type="text" id="name" placeholder="Your full Name" onClick="this.select()" value="">
+                                                                        <input name="fullname" type="text" id="fullname-cp" placeholder="Your full Name" value="">
+                                                                        <small class="fullname-error-cp"></small>
                                                                     </div>
                                                                 </div>
 
@@ -151,13 +152,15 @@
                                                                 <div class="col-sm-6">
                                                                     <div class="cs-intputwrap">
                                                                         <i class="fa-light fa-envelope"></i>
-                                                                        <input type="text" name="email" id="email" placeholder="Email Address *" onClick="this.select()" value="">
+                                                                        <input type="text" name="email" id="email-cp" placeholder="Email Address" value="">
+                                                                        <small class="email-error-cp"></small>
                                                                     </div>
                                                                 </div>
                                                                 <div class="col-sm-6">
                                                                     <div class="cs-intputwrap">
                                                                         <i class="fa-light fa-phone"></i>
-                                                                        <input type="text" name="phone" id="phone" placeholder="Contact" onClick="this.select()" value="">
+                                                                        <input type="text" name="phone" id="phone-cp" placeholder="Contact" value="">
+                                                                        <small class="phone-error-cp"></small>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -166,7 +169,7 @@
                                                                     <div class="col-lg-12">
                                                                         <div class="cs-intputwrap">
                                                                             <i class="fa-light fa-layer-group"></i>
-                                                                            <select data-placeholder="Categories"
+                                                                            <select id="service-cp" name="service" data-placeholder="Categories"
                                                                                 class="chosen-select on-radius no-search-select">
                                                                                 <option>Choose Service</option>
                                                                                 <option>Surveying</option>
@@ -175,12 +178,14 @@
                                                                                 <option>Documentation</option>
                                                                                 <option>Other</option>
                                                                             </select>
+                                                                            <small class="service-error-cp"></small>
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                             </div>
-                                                            <textarea name="comments" id="comments" cols="40" rows="3" placeholder="Your Message:"></textarea>
-                                                            <button class="commentssubmit" id="submit_cnt" style="margin-top: 20px">Send Message</button>
+                                                            <textarea name="message" id="message-cp" cols="40" rows="3" placeholder="Your Message:"></textarea>
+                                                            <small class="message-error-cp"></small>
+                                                            <button type="submit" class="commentssubmit" id="submit_cnt" style="margin-top: 20px">Send Message</button>
                                                         </fieldset>
                                                     </form>
                                                 </div>
