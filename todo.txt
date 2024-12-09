@@ -1,0 +1,1 @@
+Find a solution to when user force browse into team-details it should redirect to home or team page

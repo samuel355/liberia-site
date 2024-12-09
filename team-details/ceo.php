@@ -99,46 +99,32 @@
                                                     <!-- team media end -->
                                                     <div class="text-block post-single_tb">
                                                         <div class="text-block-container">
-                                                            <p>Qraesent eros turpis, commodo vel justo at, pulvinar mollis eros. Mauris aliquet eu quam id ornare. Morbi ac quam enim. Cras vitae nulla condimentum, semper dolor non, faucibus dolor. Vivamus adipiscing eros quis orci fringilla, sed pretium lectus viverra. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec nec velit non odio aliquam suscipit. Sed non neque faucibus, condimentum lectus at, accumsan enim. </p>
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. Donec a consectetur nulla. Nulla posuere sapien vitae lectus suscipit, et pulvinar nisi tincidunt. Aliquam erat volutpat. Curabitur convallis fringilla diam sed aliquam. Sed tempor iaculis massa faucibus feugiat. In fermentum facilisis massa, a consequat purus viverra. Interdum et malesu they adamale fames ac anteipsu pimsine faucibus curabitur arcu site feugiat in tortor in, volutpat sollicitudin libero. Hotel non lorem acer suscipit bibendum vulla facilisi nedeuter .</p>
-                                                            <div class="post-img-row">
-                                                                <div class="post-img-row_item">
-                                                                    <img src="images/all/1.jpg" class="respimg" alt="">
-                                                                </div>
-                                                                <div class="post-img-row_item">
-                                                                    <img src="images/all/2.jpg" class="respimg" alt="">
-                                                                </div>
-                                                            </div>
-                                                            <p>Fames massa tortor sit nisl sit. Duis nulla tempus quisque et diam condimentum nisl. Rhoncus quisque elementum nulla lorem at turpis vitae quisque. Vulputate duis vel et odio hendrerit magna. Nec lacus dui egestas sit. Vulputate tincidunt viverra viverra etiam porta facilisis. Diam dui euismod eget donec. Pharetra leo sed felis urna. At a viverra urna elementum tristique ac integer pretium. Vel tincidunt sed mi nulla lectus sagittis.</p>
-                                                            <blockquote>
-                                                                <p>Cras lacinia magna vel molestie faucibus. Donec auctor et urnaLorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lacinia magna vel molestie faucibus.Cras lacinia magna vel molestie faucibus. Donec auctor et urnaLorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lacinia magna vel molestie faucibus.Cras lacinia magna vel molestie faucibus. </p>
-                                                            </blockquote>
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec nisi et nibh sollicitudin pellentesque vitae sit amet tortor. Vestibulum lacinia mi non lacus tincidunt accumsan. Nunc venenatis erat ac enim facilisis pulvinar. Donec placerat et velit nec bibendum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec luctus, augue vitae blandit lobortis, augue urna varius tellus, et viverra odio ipsum id velit. Morbi pellentesque scelerisque dignissim. In dignissim luctus augue. Phasellus viverra nibh vel sapien facilisis, id placerat nunc congue. Aliquam erat volutpat. Aenean semper dui id accumsan pulvinar. Aliquam congue mollis turpis, a volutpat metus lobortis nec. Integer in mollis quam. Cras nisl mi, dapibus a ante non, accumsan luctus augue.</p>
+                                                            <p>
+                                                            Albert D. Giah Jr. serves as the CEO of Contours Limited, a leading corporation in Liberia specializing in land surveying, mapping, geo-informatics, and construction technical services. Under his leadership, the company has been a pioneer in delivering professional surveying and geo-spatial solutions to both public and private sectors, addressing critical spatial problems with innovative technologies and services.
+                                                            </p>
+                                                            
+                                                            <p>
+                                                                Albert is dedicated to advancing the geo-spatial industry by providing cost-efficient access to cutting-edge geo-information technologies. His strategic oversight ensures that Contours Limited remains at the forefront of the field by combining technical expertise, modern equipment, and project management know-how. This has allowed the company to effectively handle projects of varying complexity while adhering to high professional standards.
+                                                            </p>
+                                                            <p>
+                                                            Albert is instrumental in realizing the company’s vision of making geo-information technology accessible and delivering value through innovative solutions and professional excellence.
+                                                            </p>
                                                         </div>
                                                         <div class="tagcloud_single">
                                                             <!--boxed-content-->
                                                             <div class="boxed-content">
                                                                 <!--boxed-content-title-->
                                                                 <div class="boxed-content-title">
-                                                                    <h3>Connect on Social</h3>
+                                                                    <h3>Connect with the C.E.O</h3>
                                                                 </div>
                                                                 <!--boxed-content-title end-->
                                                                 <!--boxed-content-item-->
                                                                 <div class="boxed-content-item bc-item_smal_pad">
                                                                     <div class="social-widget">
-                                                                        <a href="#">
-                                                                            <i class="fa-brands fa-facebook-f"></i>
+                                                                        <a href="tel:231886740519">
+                                                                            <i class="fa-solid fa-phone"></i>
                                                                         </a>
-                                                                        <a href="#">
-                                                                            <i class="fa-brands fa-x-twitter"></i>
-                                                                        </a>
-                                                                        <a href="#">
-                                                                            <i class="fa-brands fa-instagram"></i>
-                                                                        </a>
-                                                                        <a href="#">
-                                                                            <i class="fa-brands fa-tiktok"></i>
-                                                                        </a>
-                                                                        <a href="#">
+                                                                        <a target="__blank" href="https://wa.me//231886740519">
                                                                             <i class="fa-brands fa-whatsapp"></i>
                                                                         </a>
                                                                     </div>
@@ -153,10 +139,10 @@
                                             <div class="content-nav-fixed dark-bg scale_anim">
                                                 <ul>
                                                     <li>
-                                                        <a href="blog-single.html" class="ln">
+                                                        <a href="/team-details/administrative-assistant" class="ln">
                                                             <i class="fal fa-long-arrow-left"></i>
                                                             <span>
-                                                                Prev <strong>- Secretary</strong>
+                                                                Prev <strong> - Admin As.</strong>
                                                             </span>
                                                         </a>
                                                         <div class="content-nav_mediatooltip cnmd_leftside">
@@ -165,9 +151,9 @@
                                                         </div>
                                                     </li>
                                                     <li>
-                                                        <a href="blog-single.html" class="rn">
+                                                        <a href="/team-details/surveyor" class="rn">
                                                             <span>
-                                                                Next <strong>- Resource Manager</strong>
+                                                                Next <strong> - Suveyor</strong>
                                                             </span>
                                                             <i class="fal fa-long-arrow-right"></i>
                                                         </a>
@@ -194,6 +180,21 @@
                                                 <div class="boxed-content-item bc-item_smal_pad">
                                                     <div class="recent-post-widget">
                                                         <ul>
+                                                            <li>
+                                                                <div class="recent-post-img">
+                                                                    <a href="#">
+                                                                        <img src="/images/all/11.jpg" alt="">
+                                                                    </a>
+                                                                </div>
+                                                                <div class="recent-post-content">
+                                                                    <h4>
+                                                                        <a href="#">How to Book a Room online</a>
+                                                                    </h4>
+                                                                    <div class="recent-post-opt">
+                                                                        <span class="post-date">March 10, 2024</span>
+                                                                    </div>
+                                                                </div>
+                                                            </li>
                                                             <li>
                                                                 <div class="recent-post-img">
                                                                     <a href="#">
