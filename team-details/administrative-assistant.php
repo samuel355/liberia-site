@@ -94,13 +94,13 @@
                           <div class="text-block post-single_tb">
                             <div class="text-block-container">
                               <p>
-                              Alice M. Gbanijah serves as the Administrative Assistant at Contours Limited, where she plays a pivotal role in ensuring smooth organizational operations. Working closely with the CEO, Albert D. Giah Jr., Alice ensures that the company's administrative systems and processes are well-ordered and efficient.
+                                Alice M. Gbanijah serves as the Administrative Assistant at Contours Limited, where she plays a pivotal role in ensuring smooth organizational operations. Working closely with the CEO, Albert D. Giah Jr., Alice ensures that the company's administrative systems and processes are well-ordered and efficient.
                               </p>
                               <p>
-                              Her responsibilities include identifying existing challenges within the company, advising the executive team on potential improvements, and recommending practical solutions. With her proactive approach and attention to detail, Alice contributes significantly to maintaining operational excellence and supporting the CEO in achieving strategic goals.
+                                Her responsibilities include identifying existing challenges within the company, advising the executive team on potential improvements, and recommending practical solutions. With her proactive approach and attention to detail, Alice contributes significantly to maintaining operational excellence and supporting the CEO in achieving strategic goals.
                               </p>
                               <p>
-                              Alice's commitment to maintaining high administrative standards and her ability to provide valuable insights make her an integral part of the Contours Limited team. Her role is vital in fostering an environment of productivity and efficiency across the organization.
+                                Alice's commitment to maintaining high administrative standards and her ability to provide valuable insights make her an integral part of the Contours Limited team. Her role is vital in fostering an environment of productivity and efficiency across the organization.
                               </p>
                             </div>
                             <div class="tagcloud_single">
@@ -175,61 +175,61 @@
                             <ul>
                               <li>
                                 <div class="recent-post-img">
-                                  <a href="#">
+                                  <a href="/team-details/ceo">
                                     <img src="/images/all/11.jpg" alt="">
                                   </a>
                                 </div>
                                 <div class="recent-post-content">
                                   <h4>
-                                    <a href="#">How to Book a Room online</a>
+                                    <a href="/team-details/ceo">Albert D. Giah Jr.</a>
                                   </h4>
                                   <div class="recent-post-opt">
-                                    <span class="post-date">March 10, 2024</span>
+                                    <span class="post-date">C.E.O</span>
                                   </div>
                                 </div>
                               </li>
                               <li>
                                 <div class="recent-post-img">
-                                  <a href="#">
+                                  <a href="/team-details/administrator">
                                     <img src="/images/all/11.jpg" alt="">
                                   </a>
                                 </div>
                                 <div class="recent-post-content">
                                   <h4>
-                                    <a href="#">How to Book a Room online</a>
+                                    <a href="/team-details/administrator">Robert Mbolonda</a>
                                   </h4>
                                   <div class="recent-post-opt">
-                                    <span class="post-date">March 10, 2024</span>
+                                    <span class="post-date">Administrator</span>
                                   </div>
                                 </div>
                               </li>
                               <li>
                                 <div class="recent-post-img">
-                                  <a href="#">
-                                    <img src="/images/all/1.jpg" alt="">
-                                  </a>
-                                </div>
-                                <div class="recent-post-content">
-                                  <h4>
-                                    <a href="#">Snowy Mountains Trip</a>
-                                  </h4>
-                                  <div class="recent-post-opt">
-                                    <span class="post-date">August 10, 2023</span>
-                                  </div>
-                                </div>
-                              </li>
-                              <li>
-                                <div class="recent-post-img">
-                                  <a href="#">
+                                  <a href="/team-details/surveyor">
                                     <img src="/images/all/15.jpg" alt="">
                                   </a>
                                 </div>
                                 <div class="recent-post-content">
                                   <h4>
-                                    <a href="#">Traveller on our Hotel</a>
+                                    <a href="/team-details/surveyor">Mickey M Garbaye</a>
                                   </h4>
                                   <div class="recent-post-opt">
-                                    <span class="post-date">September 10, 2023</span>
+                                    <span class="post-date">Surveyor</span>
+                                  </div>
+                                </div>
+                              </li>
+                              <li>
+                                <div class="recent-post-img">
+                                  <a href="/team-details/secretary">
+                                    <img src="/images/all/15.jpg" alt="">
+                                  </a>
+                                </div>
+                                <div class="recent-post-content">
+                                  <h4>
+                                    <a href="/team-details/secretary">Mai S. Malakpa</a>
+                                  </h4>
+                                  <div class="recent-post-opt">
+                                    <span class="post-date">Secretary</span>
                                   </div>
                                 </div>
                               </li>

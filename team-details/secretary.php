@@ -181,61 +181,61 @@
                             <ul>
                               <li>
                                 <div class="recent-post-img">
-                                  <a href="#">
+                                  <a href="/team-details/ceo">
                                     <img src="/images/all/11.jpg" alt="">
                                   </a>
                                 </div>
                                 <div class="recent-post-content">
                                   <h4>
-                                    <a href="#">How to Book a Room online</a>
+                                    <a href="/team-details/ceo">Albert D. Giah Jr.</a>
                                   </h4>
                                   <div class="recent-post-opt">
-                                    <span class="post-date">March 10, 2024</span>
+                                    <span class="post-date">C.E.O</span>
                                   </div>
                                 </div>
                               </li>
                               <li>
                                 <div class="recent-post-img">
-                                  <a href="#">
+                                  <a href="/team-details/administrator">
                                     <img src="/images/all/11.jpg" alt="">
                                   </a>
                                 </div>
                                 <div class="recent-post-content">
                                   <h4>
-                                    <a href="#">How to Book a Room online</a>
+                                    <a href="/team-details/administrator">Robert Mbolonda</a>
                                   </h4>
                                   <div class="recent-post-opt">
-                                    <span class="post-date">March 10, 2024</span>
+                                    <span class="post-date">Administrator</span>
                                   </div>
                                 </div>
                               </li>
                               <li>
                                 <div class="recent-post-img">
-                                  <a href="#">
+                                  <a href="/team-details/administrative-assistant">
                                     <img src="/images/all/1.jpg" alt="">
                                   </a>
                                 </div>
                                 <div class="recent-post-content">
                                   <h4>
-                                    <a href="#">Snowy Mountains Trip</a>
+                                    <a href="/team-details/administrative-assistant">Alice M. Gbanijah</a>
                                   </h4>
                                   <div class="recent-post-opt">
-                                    <span class="post-date">August 10, 2023</span>
+                                    <span class="post-date">Administrative Assistant</span>
                                   </div>
                                 </div>
                               </li>
                               <li>
                                 <div class="recent-post-img">
-                                  <a href="#">
+                                  <a href="/team-details/surveyor">
                                     <img src="/images/all/15.jpg" alt="">
                                   </a>
                                 </div>
                                 <div class="recent-post-content">
                                   <h4>
-                                    <a href="#">Traveller on our Hotel</a>
+                                    <a href="/team-details/surveyor">Mickey M Garbaye</a>
                                   </h4>
                                   <div class="recent-post-opt">
-                                    <span class="post-date">September 10, 2023</span>
+                                    <span class="post-date">Surveyor</span>
                                   </div>
                                 </div>
                               </li>
