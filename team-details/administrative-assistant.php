@@ -132,10 +132,10 @@
                       <div class="content-nav-fixed dark-bg scale_anim">
                         <ul>
                           <li>
-                            <a href="/team-details/administrative-assistant" class="ln">
+                            <a href="/team-details/surveyor" class="ln">
                               <i class="fal fa-long-arrow-left"></i>
                               <span>
-                                Prev <strong> - Admin As.</strong>
+                                Prev <strong> - Suveryor</strong>
                               </span>
                             </a>
                             <div class="content-nav_mediatooltip cnmd_leftside">
@@ -144,9 +144,9 @@
                             </div>
                           </li>
                           <li>
-                            <a href="/team-details/surveyor" class="rn">
+                            <a href="/team-details/secretary" class="rn">
                               <span>
-                                Next <strong> - Suveyor</strong>
+                                Next <strong> - Secretary</strong>
                               </span>
                               <i class="fal fa-long-arrow-right"></i>
                             </a>

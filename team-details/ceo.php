@@ -139,10 +139,10 @@
                                             <div class="content-nav-fixed dark-bg scale_anim">
                                                 <ul>
                                                     <li>
-                                                        <a href="/team-details/administrative-assistant" class="ln">
+                                                        <a href="/team-details/administrator" class="ln">
                                                             <i class="fal fa-long-arrow-left"></i>
                                                             <span>
-                                                                Prev <strong> - Admin As.</strong>
+                                                                Prev <strong> - Admin</strong>
                                                             </span>
                                                         </a>
                                                         <div class="content-nav_mediatooltip cnmd_leftside">
