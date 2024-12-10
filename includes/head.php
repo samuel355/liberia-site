@@ -21,6 +21,18 @@ switch ($pageFile) {
   case 'ceo.php':
     $pageTitle = "C.E.O - Contours Ltd";
     break;
+  case 'administrative-assistant.php':
+    $pageTitle = "Administrative Assistant - Contours Ltd";
+    break;
+  case 'administrator.php':
+    $pageTitle = "Administrator - Contours Ltd";
+    break;
+  case 'secretray.php':
+    $pageTitle = "Secretary - Contours Ltd";
+    break;
+  case 'surveryor.php':
+    $pageTitle = "Surveyor - Contours Ltd";
+    break;
   case 'error-page.php':
     $pageTitle = "Error Page - Contours Ltd";
     break;

@@ -11,19 +11,19 @@ $pageFile = basename($_SERVER['PHP_SELF']);
       <div class="nav-holder main-menu">
         <nav>
           <ul class="no-list-style">
-            <li class="<?php echo ($pageFile == 'index.php') ? 'nav-active' : ''; ?>">
+            <li class="<?php echo ($pageFile === 'index.php') ? 'nav-active' : ''; ?>">
               <a href="/">Home</a>
             </li>
-            <li class="<?php echo ($pageFile == 'about-us.php') ? 'nav-active' : ''; ?>">
+            <li class="<?php echo ($pageFile === 'about-us.php') ? 'nav-active' : ''; ?>">
               <a href="/about-us">About Us</a>
             </li>
-            <li class="<?php echo ($pageFile == 'services.php') ? 'nav-active' : ''; ?>">
+            <li class="<?php echo ($pageFile === 'services.php') ? 'nav-active' : ''; ?>">
               <a href="/services">Our Services</a>
             </li>
-            <li class="<?php echo ($pageFile == 'our-team.php') ? 'nav-active' : ''; ?>">
+            <li class="<?php echo ($pageFile === 'our-team.php' || $pageFile === 'administrative-assistant.php' || $pageFile === 'administrator.php' || $pageFile === 'ceo.php' || $pageFile === 'secretary.php' || $pageFile === 'surveyor.php') ? 'nav-active' : ''; ?>">
               <a href="/our-team">Our Team</a>
             </li>
-            <li class="<?php echo ($pageFile == 'contact.php') ? 'nav-active' : ''; ?>">
+            <li class="<?php echo ($pageFile === 'contact.php') ? 'nav-active' : ''; ?>">
               <a href="/contact">Contact Us</a>
             </li>
           </ul>
