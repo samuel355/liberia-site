@@ -196,7 +196,7 @@
                                     <!-- contacts-opt-wrap -->
                                     <div class="col-lg-6">
                                         <div class="map-container mapC_vis3">
-                                            <div id="singleMap" class="single-map-container fs-wrapper" data-latitude="40.7427837" data-longitude="-73.11445617675781" data-mapTitle="Our Location" data-infotitle="House in Financial Distric" data-infotext="70 Bright St New York, USA"></div>
+                                            <div id="singleMap" class="single-map-container fs-wrapper" data-latitude="6.309782" data-longitude="-10.807717" data-mapTitle="Our Location" data-infotitle="Center and Carey Street Intersection. Op. DSTV" data-infotext="91 UN Drive, Adjacent NIC Building"></div>
                                             <div class="scrollContorl"></div>
                                         </div>
                                     </div>

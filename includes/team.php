@@ -39,22 +39,22 @@
                 </div>
                 <div class="agent-card-item_text">
                   <div class="agent-card-item_text-item">
-                    <h4><a href="team-details/ceo">Niko Furingee</a></h4>
-                    <p style="color: white; font-size:20px">FOUNDER/C.E.O</p>
+                    <h4><a href="team-details/ceo">Albert D. Giah Jr.</a></h4>
+                    <p style="color: white; font-size:20px">Founder/CEO</p>
                   </div>
                 </div>
                 <div class="agent-card-item_footer sh-links">
                   <a href="team-details/ceo" class="post-card_link">View Details <i class="fa-solid fa-caret-right"></i></a>
                   <div class="property-contacts-links">
-                    <a href="tel:+18475555555" class="tolt pcl_btn" data-microtip-position="left" data-tooltip="Call"><i class="fa-solid fa-phone"></i></a>
+                    <a href="tel:+231886740519" class="tolt pcl_btn" data-microtip-position="left" data-tooltip="Call"><i class="fa-solid fa-phone"></i></a>
                   </div>
                 </div>
               </div>
             </div>
             <!--agent-card-item end-->
 
-             <!--agent-card-item-->
-             <div class="swiper-slide">
+            <!--agent-card-item-->
+            <div class="swiper-slide">
               <div class="agent-card-item">
                 <div class="agent-card-item_media">
                   <div class="agent-card-item_media-wrap">
@@ -72,22 +72,22 @@
                 </div>
                 <div class="agent-card-item_text">
                   <div class="agent-card-item_text-item">
-                    <h4><a href="#">Niko Furingee</a></h4>
-                    <p style="color: white; font-size:20px">FOUNDER/C.E.O</p>
+                    <h4><a href="/team-details/administrator">Robert Mbolonda</a></h4>
+                    <p style="color: white; font-size:20px">Administrator</p>
                   </div>
                 </div>
                 <div class="agent-card-item_footer sh-links">
-                  <a href="#" class="post-card_link">View Details <i class="fa-solid fa-caret-right"></i></a>
+                  <a href="/team-details/administrator" class="post-card_link">View Details <i class="fa-solid fa-caret-right"></i></a>
                   <div class="property-contacts-links">
-                    <a href="tel:+18475555555" class="tolt pcl_btn" data-microtip-position="left" data-tooltip="Call"><i class="fa-solid fa-phone"></i></a>
+                    <a href="tel:+2310776618455" class="tolt pcl_btn" data-microtip-position="left" data-tooltip="Call"><i class="fa-solid fa-phone"></i></a>
                   </div>
                 </div>
               </div>
             </div>
             <!--agent-card-item end-->
 
-             <!--agent-card-item-->
-             <div class="swiper-slide">
+            <!--agent-card-item-->
+            <div class="swiper-slide">
               <div class="agent-card-item">
                 <div class="agent-card-item_media">
                   <div class="agent-card-item_media-wrap">
@@ -105,22 +105,22 @@
                 </div>
                 <div class="agent-card-item_text">
                   <div class="agent-card-item_text-item">
-                    <h4><a href="#">Niko Furingee</a></h4>
-                    <p style="color: white; font-size:20px">FOUNDER/C.E.O</p>
+                    <h4><a href="/team-details/administrative-assistant">Alice M. Gbanijah</a></h4>
+                    <p style="color: white; font-size:20px">Administrative Assistant</p>
                   </div>
                 </div>
                 <div class="agent-card-item_footer sh-links">
-                  <a href="#" class="post-card_link">View Details <i class="fa-solid fa-caret-right"></i></a>
+                  <a href="/team-details/administrative-assistant" class="post-card_link">View Details <i class="fa-solid fa-caret-right"></i></a>
                   <div class="property-contacts-links">
-                    <a href="tel:+18475555555" class="tolt pcl_btn" data-microtip-position="left" data-tooltip="Call"><i class="fa-solid fa-phone"></i></a>
+                    <a href="tel:+2310775672763" class="tolt pcl_btn" data-microtip-position="left" data-tooltip="Call"><i class="fa-solid fa-phone"></i></a>
                   </div>
                 </div>
               </div>
             </div>
             <!--agent-card-item end-->
 
-             <!--agent-card-item-->
-             <div class="swiper-slide">
+            <!--agent-card-item-->
+            <div class="swiper-slide">
               <div class="agent-card-item">
                 <div class="agent-card-item_media">
                   <div class="agent-card-item_media-wrap">
@@ -138,22 +138,22 @@
                 </div>
                 <div class="agent-card-item_text">
                   <div class="agent-card-item_text-item">
-                    <h4><a href="#">Niko Furingee</a></h4>
-                    <p style="color: white; font-size:20px">FOUNDER/C.E.O</p>
+                    <h4><a href="/team-details/surveyor">Mickey M. Garbaye</a></h4>
+                    <p style="color: white; font-size:20px">Surveyor</p>
                   </div>
                 </div>
                 <div class="agent-card-item_footer sh-links">
-                  <a href="#" class="post-card_link">View Details <i class="fa-solid fa-caret-right"></i></a>
+                  <a href="/team-details/surveyor" class="post-card_link">View Details <i class="fa-solid fa-caret-right"></i></a>
                   <div class="property-contacts-links">
-                    <a href="tel:+18475555555" class="tolt pcl_btn" data-microtip-position="left" data-tooltip="Call"><i class="fa-solid fa-phone"></i></a>
+                    <a href="tel:+2310886246295" class="tolt pcl_btn" data-microtip-position="left" data-tooltip="Call"><i class="fa-solid fa-phone"></i></a>
                   </div>
                 </div>
               </div>
             </div>
             <!--agent-card-item end-->
 
-             <!--agent-card-item-->
-             <div class="swiper-slide">
+            <!--agent-card-item-->
+            <div class="swiper-slide">
               <div class="agent-card-item">
                 <div class="agent-card-item_media">
                   <div class="agent-card-item_media-wrap">
@@ -171,80 +171,14 @@
                 </div>
                 <div class="agent-card-item_text">
                   <div class="agent-card-item_text-item">
-                    <h4><a href="#">Niko Furingee</a></h4>
-                    <p style="color: white; font-size:20px">FOUNDER/C.E.O</p>
+                    <h4><a href="/team-details/secretary">Mai S Malakpa</a></h4>
+                    <p style="color: white; font-size:20px">Secretary</p>
                   </div>
                 </div>
                 <div class="agent-card-item_footer sh-links">
-                  <a href="#" class="post-card_link">View Details <i class="fa-solid fa-caret-right"></i></a>
+                  <a href="/team-details/secretary" class="post-card_link">View Details <i class="fa-solid fa-caret-right"></i></a>
                   <div class="property-contacts-links">
-                    <a href="tel:+18475555555" class="tolt pcl_btn" data-microtip-position="left" data-tooltip="Call"><i class="fa-solid fa-phone"></i></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <!--agent-card-item end-->
-
-             <!--agent-card-item-->
-             <div class="swiper-slide">
-              <div class="agent-card-item">
-                <div class="agent-card-item_media">
-                  <div class="agent-card-item_media-wrap">
-                    <img src="images/agents/1.jpg" alt="" class="respimg">
-                    <div class="overlay"></div>
-                    <div class="acim-wrap">
-                      <ul>
-                        <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                        <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-                        <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                        <li><a href="#"><i class="fa-brands fa-tiktok"></i></a></li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-                <div class="agent-card-item_text">
-                  <div class="agent-card-item_text-item">
-                    <h4><a href="#">Niko Furingee</a></h4>
-                    <p style="color: white; font-size:20px">FOUNDER/C.E.O</p>
-                  </div>
-                </div>
-                <div class="agent-card-item_footer sh-links">
-                  <a href="#" class="post-card_link">View Details <i class="fa-solid fa-caret-right"></i></a>
-                  <div class="property-contacts-links">
-                    <a href="tel:+18475555555" class="tolt pcl_btn" data-microtip-position="left" data-tooltip="Call"><i class="fa-solid fa-phone"></i></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <!--agent-card-item end-->
-
-             <!--agent-card-item-->
-             <div class="swiper-slide">
-              <div class="agent-card-item">
-                <div class="agent-card-item_media">
-                  <div class="agent-card-item_media-wrap">
-                    <img src="images/agents/1.jpg" alt="" class="respimg">
-                    <div class="overlay"></div>
-                    <div class="acim-wrap">
-                      <ul>
-                        <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                        <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-                        <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                        <li><a href="#"><i class="fa-brands fa-tiktok"></i></a></li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-                <div class="agent-card-item_text">
-                  <div class="agent-card-item_text-item">
-                    <h4><a href="#">Niko Furingee</a></h4>
-                    <p style="color: white; font-size:20px">FOUNDER/C.E.O</p>
-                  </div>
-                </div>
-                <div class="agent-card-item_footer sh-links">
-                  <a href="#" class="post-card_link">View Details <i class="fa-solid fa-caret-right"></i></a>
-                  <div class="property-contacts-links">
-                    <a href="tel:+18475555555" class="tolt pcl_btn" data-microtip-position="left" data-tooltip="Call"><i class="fa-solid fa-phone"></i></a>
+                    <a href="tel:+2310777788754" class="tolt pcl_btn" data-microtip-position="left" data-tooltip="Call"><i class="fa-solid fa-phone"></i></a>
                   </div>
                 </div>
               </div>

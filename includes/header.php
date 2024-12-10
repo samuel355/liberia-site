@@ -6,7 +6,10 @@ $pageFile = basename($_SERVER['PHP_SELF']);
 <header class="main-header">
   <div class="container">
     <div class="header-inner">
-      <a href="/" class="logo-holder"><img src="/images/logo.png" alt=""></a>
+      <a href="/" class="logo-holder">
+        <img src="/images/logo/contourslogoall.png" alt="">
+      </a>
+
       <!--  navigation -->
       <div class="nav-holder main-menu">
         <nav>

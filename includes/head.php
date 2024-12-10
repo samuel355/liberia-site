@@ -54,6 +54,6 @@ switch ($pageFile) {
   <title> <?php echo htmlspecialchars($pageTitle) ?> </title>
   <link type="text/css" rel="stylesheet" href="/css/plugins.css">
   <link type="text/css" rel="stylesheet" href="/css/style.css">
-  <link rel="shortcut icon" href="/images/favicon.ico">
+  <link rel="shortcut icon" href="/images/logo/contours_logo.svg">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
 </head>
