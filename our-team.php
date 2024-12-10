@@ -63,19 +63,19 @@
                   <div class="listing-item cat-comercial cat-sale">
                     <div class="geodir-category-listing">
                       <div class="geodir-category-img">
-                        <a href="#" class="geodir-category-img_item">
+                        <a href="/team-details/ceo" class="geodir-category-img_item">
                           <div class="bg" data-bg="images/all/1.jpg"></div>
                           <div class="overlay"></div>
                         </a>
                       </div>
 
                       <div class="geodir-category-content">
-                        <h3><a href="">Gorgeous House For Sale</a></h3>
-                        <div class="geodir-category-content_price">$ 500,000</div>
+                        <h3><a href="/team-details/ceo">Albert D. Giah Jr.</a></h3>
+                        <div class="geodir-category-content_price">Chief Executive Officer</div>
                         
                       </div>
                       <div class="geodir-category-footer" style="padding-top: 3rem;">
-                        <a href="" class="gid_link"><span>View Details</span>
+                        <a href="/team-details/ceo" class="gid_link"><span>View Details</span>
                           <i class="fa-solid fa-caret-right"></i></a>
                       </div>
                     </div>
@@ -87,19 +87,19 @@
                   <div class="listing-item cat-comercial cat-sale">
                     <div class="geodir-category-listing">
                       <div class="geodir-category-img">
-                        <a href="#" class="geodir-category-img_item">
+                        <a href="/team-details/administrator" class="geodir-category-img_item">
                           <div class="bg" data-bg="images/all/1.jpg"></div>
                           <div class="overlay"></div>
                         </a>
                       </div>
 
                       <div class="geodir-category-content">
-                        <h3><a href="">Gorgeous House For Sale</a></h3>
-                        <div class="geodir-category-content_price">$ 500,000</div>
+                        <h3><a href="/team-details/administrator">Robert Mbolonda</a></h3>
+                        <div class="geodir-category-content_price">Administrator</div>
                         
                       </div>
                       <div class="geodir-category-footer" style="padding-top: 3rem;">
-                        <a href="" class="gid_link"><span>View Details</span>
+                        <a href="/team-details/administrator" class="gid_link"><span>View Details</span>
                           <i class="fa-solid fa-caret-right"></i></a>
                       </div>
                     </div>
@@ -110,19 +110,19 @@
                   <div class="listing-item cat-comercial cat-sale">
                     <div class="geodir-category-listing">
                       <div class="geodir-category-img">
-                        <a href="#" class="geodir-category-img_item">
+                        <a href="/team-details/administrative-assistant" class="geodir-category-img_item">
                           <div class="bg" data-bg="images/all/1.jpg"></div>
                           <div class="overlay"></div>
                         </a>
                       </div>
 
                       <div class="geodir-category-content">
-                        <h3><a href="">Gorgeous House For Sale</a></h3>
-                        <div class="geodir-category-content_price">$ 500,000</div>
+                        <h3><a href="/team-details/administrative-assistant">Alice M. Gbanijah</a></h3>
+                        <div class="geodir-category-content_price">Administrative Assistant</div>
                         
                       </div>
                       <div class="geodir-category-footer" style="padding-top: 3rem;">
-                        <a href="" class="gid_link"><span>View Details</span>
+                        <a href="/team-details/administrative-assistant" class="gid_link"><span>View Details</span>
                           <i class="fa-solid fa-caret-right"></i></a>
                       </div>
                     </div>
@@ -133,19 +133,19 @@
                   <div class="listing-item cat-comercial cat-sale">
                     <div class="geodir-category-listing">
                       <div class="geodir-category-img">
-                        <a href="#" class="geodir-category-img_item">
+                        <a href="/team-details/surveyor" class="geodir-category-img_item">
                           <div class="bg" data-bg="images/all/1.jpg"></div>
                           <div class="overlay"></div>
                         </a>
                       </div>
 
                       <div class="geodir-category-content">
-                        <h3><a href="">Gorgeous House For Sale</a></h3>
-                        <div class="geodir-category-content_price">$ 500,000</div>
+                        <h3><a href="/team-details/surveyor">Mickey M. Garbaye</a></h3>
+                        <div class="geodir-category-content_price">Surveyor</div>
                         
                       </div>
                       <div class="geodir-category-footer" style="padding-top: 3rem;">
-                        <a href="" class="gid_link"><span>View Details</span>
+                        <a href="/team-details/surveyor" class="gid_link"><span>View Details</span>
                           <i class="fa-solid fa-caret-right"></i></a>
                       </div>
                     </div>
@@ -156,42 +156,19 @@
                   <div class="listing-item cat-comercial cat-sale">
                     <div class="geodir-category-listing">
                       <div class="geodir-category-img">
-                        <a href="#" class="geodir-category-img_item">
+                        <a href="/team-details/secretary" class="geodir-category-img_item">
                           <div class="bg" data-bg="images/all/1.jpg"></div>
                           <div class="overlay"></div>
                         </a>
                       </div>
 
                       <div class="geodir-category-content">
-                        <h3><a href="">Gorgeous House For Sale</a></h3>
-                        <div class="geodir-category-content_price">$ 500,000</div>
+                        <h3><a href="/team-details/secretary">Mai S. Malakpa</a></h3>
+                        <div class="geodir-category-content_price">Secretary</div>
                         
                       </div>
                       <div class="geodir-category-footer" style="padding-top: 3rem;">
-                        <a href="" class="gid_link"><span>View Details</span>
-                          <i class="fa-solid fa-caret-right"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="listing-grid-item">
-                  <div class="listing-item cat-comercial cat-sale">
-                    <div class="geodir-category-listing">
-                      <div class="geodir-category-img">
-                        <a href="#" class="geodir-category-img_item">
-                          <div class="bg" data-bg="images/all/1.jpg"></div>
-                          <div class="overlay"></div>
-                        </a>
-                      </div>
-
-                      <div class="geodir-category-content">
-                        <h3><a href="">Gorgeous House For Sale</a></h3>
-                        <div class="geodir-category-content_price">$ 500,000</div>
-                        
-                      </div>
-                      <div class="geodir-category-footer" style="padding-top: 3rem;">
-                        <a href="" class="gid_link"><span>View Details</span>
+                        <a href="/team-details/secretary" class="gid_link"><span>View Details</span>
                           <i class="fa-solid fa-caret-right"></i></a>
                       </div>
                     </div>
