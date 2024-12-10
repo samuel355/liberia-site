@@ -40,7 +40,7 @@
                                 <div class="svg-corner svg-corner_white" style="bottom:0;left:  -39px;"></div>
                             </div>
                             <div class="bg-wrap bg-hero bg-parallax-wrap-gradien fs-wrapper" data-scrollax-parent="true">
-                                <div class="bg" data-bg="images/bg/8.jpg" data-scrollax="properties: { translateY: '30%' }"></div>
+                                <div class="bg" data-bg="/images/bg/slide-2.jpg" data-scrollax="properties: { translateY: '30%' }"></div>
                             </div>
                         </div>
                     </div>
@@ -70,7 +70,13 @@
                                                 <h2> About Us</h2>
                                             </div>
                                             <p>
-                                                Contours Limited bridges the gap in Liberia's land surveying and mapping industry, offering top-notch services to public and private sectors. Founded to address the critical need for professional land surveying, we bring expertise, innovation, and modern technology to spatial problem-solving.
+                                                Welcome to Contours Limited, a premier provider of land surveying, mapping, and geo-informatics solutions in Liberia. Founded to address the growing demand for professional land survey services in the private sector, Contours Limited has become a trusted partner for both public and private organizations.
+                                            </p>
+                                            <p>
+                                                We specialize in a wide range of services, including parcel delineation, boundary harmonization, topographic and engineering surveys, GIS and LIS solutions, satellite image analysis, and land valuation consultancy. Our team of licensed surveyors and geo-spatial professionals uses cutting-edge GNSS and GIS instruments to deliver accurate, reliable, and cost-effective results.
+                                            </p>
+                                            <p>
+                                                At Contours Limited, we are driven by a vision to make geo-information technology accessible at an affordable scale, empowering industries and communities to thrive. Our mission is to identify and solve spatial problems, providing tailored solutions that meet the unique needs of our clients. We are committed to maintaining the highest professional standards in every project we undertake.
                                             </p>
                                             <div class="about-title ab-hero ab-hero2" style="margin-top: 1rem;">
                                                 <h2>What Sets Us Apart</h2>
@@ -80,34 +86,45 @@
                                             </p>
                                             <p>2. A robust portfolio of verified properties.</p>
                                             <p>3. Cutting-edge technology for property searches and management</p>
-
-                                            <div class="about-title ab-hero ab-hero2">
-                                                <h2> Our Mission</h2>
-                                                <h4></h4>
-                                            </div>
-                                            <p>
-                                                To identify and resolve the spatial needs of society with tailored solutions that exceed expectations.
-                                            </p>
-
-                                            <div class="about-title ab-hero ab-hero2" style="margin-top: 1rem;">
-                                                <h2>Our Vission</h2>
-                                            </div>
-                                            <p>
-                                                To make geo-information technology accessible and cost-effective for everyone in the geo-spatial industry.
-                                            </p>
-                                            <a href="/contact" class="commentssubmit" style="margin-top: 30px">Get In Touch With Us</a>
                                         </div>
                                         <div class="col-lg-6">
-                                            <div class="about-img ab_i2">
+                                            <div class="about-img ab_i2" style="margin-top: 2rem">
                                                 <img src="images/all/16.jpg" class="respimg" alt="">
-                                                <!-- <div class="ab_img_wideo_wrap">
-                                                    <div class="video-link" id="html5-videos" data-html="#video1"><i class="fas fa-play"></i><span> Play Story Video</span></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-sm-12">
+                                            <div class="text-block post-single_tb">
+                                                <div class="text-block-container">
+                                                    <div class="about-title ab-hero ab-hero2">
+                                                        <h2> Our Mission</h2>
+                                                    </div>
+                                                    <p>
+                                                        To identify the spatial problems and needs of society and provide innovative solutions to address them effectively and professionally.
+                                                    </p>
+                                                    <p>
+                                                        At Contours Limited, we are committed to maintaining the highest professional standards in every project we undertake. With a customer-centric approach, advanced technology, and a dedicated team, Contours Limited is poised to lead the geo-spatial and surveying industry in Liberia. Whether it’s providing professional services, modern equipment, or comprehensive data management, we are here to support your projects with precision and expertise.
+                                                    </p>
+                                                    <p>
+                                                        Let Contours Limited guide you through your next project. Experience the difference of working with a company that values professionalism, innovation, and excellence.
+                                                    </p>
                                                 </div>
-                                                <div style="display:none;" id="video1" class="popup_video" data-videolink="video/2.mp4">
-                                                    <video class="lg-video-object lg-html5" controls preload="none">
-                                                        <source src="/" type="video/mp4">
-                                                    </video>
-                                                </div> -->
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="row">
+                                        <div class="col-sm-12">
+                                            <div class="text-block post-single_tb">
+                                                <div class="text-block-container">
+                                                    <div class="about-title ab-hero ab-hero2">
+                                                        <h2> Our Vission</h2>
+                                                    </div>
+                                                    <p>
+                                                    To make geo-information technology a cornerstone of the geo-spatial industry, making it accessible and cost-efficient for all sectors in Liberia.
+                                                    </p>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -123,7 +140,7 @@
                                                 <div class="num" data-content="0" data-num="254">0</div>
                                             </div>
                                         </div>
-                                        <h6>New Visiters Every Week</h6>
+                                        <h6>Our Clients</h6>
                                     </div>
                                 </div>
                                 <!-- inline-facts end -->
@@ -133,10 +150,10 @@
                                         <i class="fa-light fa-message-heart"></i>
                                         <div class="milestone-counter">
                                             <div class="stats animaper">
-                                                <div class="num" data-content="0" data-num="2168">0</div>
+                                                <div class="num" data-content="0" data-num="168">0</div>
                                             </div>
                                         </div>
-                                        <h6>Happy customers every year</h6>
+                                        <h6>Happy customers</h6>
                                     </div>
                                 </div>
                                 <!-- inline-facts end -->
@@ -162,7 +179,7 @@
                                                 <div class="num" data-content="0" data-num="132">0</div>
                                             </div>
                                         </div>
-                                        <h6>New Properties Every Week</h6>
+                                        <h6>Projects</h6>
                                     </div>
                                 </div>
                                 <!-- inline-facts end -->
@@ -172,211 +189,7 @@
                     </div>
                     <!--container end-->
 
-                    <div class="container">
-                        <div class="section-title">
-                            <h4>Our Team</h4>
-                            <h2>Meet our Staff</h2>
-                        </div>
-                    </div>
-                    <div class="agent-bg-section">
-                        <div class="fw_car_title-wrap">
-                            <div class="fw_car_title">
-                                <h3>Meet Our Agents</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. Donec a consectetur nulla. </p>
-                            </div>
-                        </div>
-                        <div class="agent-carousel_controls">
-                            <div class="ac-button ac-button-prev"><i class="fas fa-caret-left"></i></div>
-                            <div class="ac-button ac-button-next"><i class="fas fa-caret-right"></i></div>
-                        </div>
-                        <div class="agnet-carousel-wrap">
-                            <div class="agnet-carousel">
-                                <div class="swiper-container">
-                                    <div class="swiper-wrapper">
-                                        <!--agent-card-item-->
-                                        <div class="swiper-slide">
-                                            <div class="agent-card-item">
-                                                <div class="agent-card-item_media">
-                                                    <div class="agent-card-item_media-wrap">
-                                                        <img src="images/agents/1.jpg" alt="" class="respimg">
-                                                        <div class="overlay"></div>
-                                                        <div class="acim-wrap">
-                                                            <ul>
-                                                                <li><a href="#" ><i class="fa-brands fa-facebook-f"></i></a></li>
-                                                                <li><a href="#" ><i class="fa-brands fa-x-twitter"></i></a></li>
-                                                                <li><a href="#" ><i class="fa-brands fa-instagram"></i></a></li>
-                                                                <li><a href="#" ><i class="fa-brands fa-tiktok"></i></a></li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="agent-card-item_text">
-                                                    <div class="agent-card-item_text-item">
-                                                        <h4><a href="agent-single.html">Niko Furingee</a></h4>
-                                                        <p>Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
-                                                        <div class="post-card-details">
-                                                            <ul>
-                                                                <li><i class="fa-regular fa-house-building"></i><span>12 Properties</span></li>
-                                                                <li><i class="fa-light fa-glasses"></i><span>3567 Views</span></li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="agent-card-item_footer sh-links">
-                                                    <a href="agent-single.html" class="post-card_link">View Details <i class="fa-solid fa-caret-right"></i></a>
-                                                    <div class="property-contacts-links">
-                                                        <a href="tel:+18475555555" class="tolt pcl_btn" data-microtip-position="left" data-tooltip="Call"><i class="fa-solid fa-phone"></i></a>
-                                                        <a href="#" class="show-messenger-links pcl_btn tolt" data-microtip-position="left" data-tooltip="Write Message"><i class="fa-solid fa-message-sms"></i></a>
-                                                    </div>
-                                                    <div class="messenger-links-container">
-                                                        <a href="#" class="tolt" data-microtip-position="bottom" data-tooltip="Viber"><i class="fa-brands fa-viber"></i></a>
-                                                        <a href="#" class="tolt" data-microtip-position="bottom" data-tooltip="Whatsapp"><i class="fa-brands fa-whatsapp"></i></a>
-                                                        <a href="#" class="tolt" data-microtip-position="bottom" data-tooltip="Telegram"><i class="fa-brands fa-telegram"></i></a>
-                                                        <a href="#" class="tolt" data-microtip-position="bottom" data-tooltip="Facebook"><i class="fa-brands fa-facebook-messenger"></i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!--agent-card-item end-->
-                                        <!--agent-card-item-->
-                                        <div class="swiper-slide">
-                                            <div class="agent-card-item">
-                                                <div class="agent-card-item_media">
-                                                    <div class="agent-card-item_media-wrap">
-                                                        <img src="images/agents/2.jpg" alt="" class="respimg">
-                                                        <div class="overlay"></div>
-                                                        <div class="acim-wrap">
-                                                            <ul>
-                                                                <li><a href="#" ><i class="fa-brands fa-facebook-f"></i></a></li>
-                                                                <li><a href="#" ><i class="fa-brands fa-instagram"></i></a></li>
-                                                                <li><a href="#" ><i class="fa-brands fa-tiktok"></i></a></li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="agent-card-item_text">
-                                                    <div class="agent-card-item_text-item">
-                                                        <h4><a href="agent-single.html">Anna Lips</a></h4>
-                                                        <p>Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
-                                                        <div class="post-card-details">
-                                                            <ul>
-                                                                <li><i class="fa-regular fa-house-building"></i><span>6 Properties</span></li>
-                                                                <li><i class="fa-light fa-glasses"></i><span>8976 Views</span></li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="agent-card-item_footer sh-links">
-                                                    <a href="agent-single.html" class="post-card_link">View Details <i class="fa-solid fa-caret-right"></i></a>
-                                                    <div class="property-contacts-links">
-                                                        <a href="tel:+18475555555" class="tolt pcl_btn" data-microtip-position="left" data-tooltip="Call"><i class="fa-solid fa-phone"></i></a>
-                                                        <a href="#" class="show-messenger-links pcl_btn tolt" data-microtip-position="left" data-tooltip="Write Message"><i class="fa-solid fa-message-sms"></i></a>
-                                                    </div>
-                                                    <div class="messenger-links-container">
-                                                        <a href="#" class="tolt" data-microtip-position="bottom" data-tooltip="Viber"><i class="fa-brands fa-viber"></i></a>
-                                                        <a href="#" class="tolt" data-microtip-position="bottom" data-tooltip="Whatsapp"><i class="fa-brands fa-whatsapp"></i></a>
-                                                        <a href="#" class="tolt" data-microtip-position="bottom" data-tooltip="Telegram"><i class="fa-brands fa-telegram"></i></a>
-                                                        <a href="#" class="tolt" data-microtip-position="bottom" data-tooltip="Facebook"><i class="fa-brands fa-facebook-messenger"></i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!--agent-card-item end-->
-                                        <!--agent-card-item-->
-                                        <div class="swiper-slide">
-                                            <div class="agent-card-item">
-                                                <div class="agent-card-item_media">
-                                                    <div class="agent-card-item_media-wrap">
-                                                        <img src="images/agents/3.jpg" alt="" class="respimg">
-                                                        <div class="overlay"></div>
-                                                        <div class="acim-wrap">
-                                                            <ul>
-                                                                <li><a href="#" ><i class="fa-brands fa-facebook-f"></i></a></li>
-                                                                <li><a href="#" ><i class="fa-brands fa-x-twitter"></i></a></li>
-                                                                <li><a href="#" ><i class="fa-brands fa-instagram"></i></a></li>
-                                                                <li><a href="#" ><i class="fa-brands fa-tiktok"></i></a></li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="agent-card-item_text">
-                                                    <div class="agent-card-item_text-item">
-                                                        <h4><a href="agent-single.html">Martin Smith</a></h4>
-                                                        <p>Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
-                                                        <div class="post-card-details">
-                                                            <ul>
-                                                                <li><i class="fa-regular fa-house-building"></i><span>24 Properties</span></li>
-                                                                <li><i class="fa-light fa-glasses"></i><span>5462 Views</span></li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="agent-card-item_footer sh-links">
-                                                    <a href="agent-single.html" class="post-card_link">View Details <i class="fa-solid fa-caret-right"></i></a>
-                                                    <div class="property-contacts-links">
-                                                        <a href="tel:+18475555555" class="tolt pcl_btn" data-microtip-position="left" data-tooltip="Call"><i class="fa-solid fa-phone"></i></a>
-                                                        <a href="#" class="show-messenger-links pcl_btn tolt" data-microtip-position="left" data-tooltip="Write Message"><i class="fa-solid fa-message-sms"></i></a>
-                                                    </div>
-                                                    <div class="messenger-links-container">
-                                                        <a href="#" class="tolt" data-microtip-position="bottom" data-tooltip="Viber"><i class="fa-brands fa-viber"></i></a>
-                                                        <a href="#" class="tolt" data-microtip-position="bottom" data-tooltip="Whatsapp"><i class="fa-brands fa-whatsapp"></i></a>
-                                                        <a href="#" class="tolt" data-microtip-position="bottom" data-tooltip="Telegram"><i class="fa-brands fa-telegram"></i></a>
-                                                        <a href="#" class="tolt" data-microtip-position="bottom" data-tooltip="Facebook"><i class="fa-brands fa-facebook-messenger"></i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!--agent-card-item end-->
-                                        <!--agent-card-item-->
-                                        <div class="swiper-slide">
-                                            <div class="agent-card-item">
-                                                <div class="agent-card-item_media">
-                                                    <div class="agent-card-item_media-wrap">
-                                                        <img src="images/agents/4.jpg" alt="" class="respimg">
-                                                        <div class="overlay"></div>
-                                                        <div class="acim-wrap">
-                                                            <ul>
-                                                                <li><a href="#" ><i class="fa-brands fa-facebook-f"></i></a></li>
-                                                                <li><a href="#" ><i class="fa-brands fa-x-twitter"></i></a></li>
-                                                                <li><a href="#" ><i class="fa-brands fa-instagram"></i></a></li>
-                                                                <li><a href="#" ><i class="fa-brands fa-tiktok"></i></a></li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="agent-card-item_text">
-                                                    <div class="agent-card-item_text-item">
-                                                        <h4><a href="agent-single.html">Liza Rose</a></h4>
-                                                        <p>Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
-                                                        <div class="post-card-details">
-                                                            <ul>
-                                                                <li><i class="fa-regular fa-house-building"></i><span>7 Properties</span></li>
-                                                                <li><i class="fa-light fa-glasses"></i><span>7897 Views</span></li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="agent-card-item_footer sh-links">
-                                                    <a href="agent-single.html" class="post-card_link">View Details <i class="fa-solid fa-caret-right"></i></a>
-                                                    <div class="property-contacts-links">
-                                                        <a href="tel:+18475555555" class="tolt pcl_btn" data-microtip-position="left" data-tooltip="Call"><i class="fa-solid fa-phone"></i></a>
-                                                        <a href="#" class="show-messenger-links pcl_btn tolt" data-microtip-position="left" data-tooltip="Write Message"><i class="fa-solid fa-message-sms"></i></a>
-                                                    </div>
-                                                    <div class="messenger-links-container">
-                                                        <a href="#" class="tolt" data-microtip-position="bottom" data-tooltip="Viber"><i class="fa-brands fa-viber"></i></a>
-                                                        <a href="#" class="tolt" data-microtip-position="bottom" data-tooltip="Whatsapp"><i class="fa-brands fa-whatsapp"></i></a>
-                                                        <a href="#" class="tolt" data-microtip-position="bottom" data-tooltip="Telegram"><i class="fa-brands fa-telegram"></i></a>
-                                                        <a href="#" class="tolt" data-microtip-position="bottom" data-tooltip="Facebook"><i class="fa-brands fa-facebook-messenger"></i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!--agent-card-item end-->
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    <?php include_once('includes/team.php') ?>
 
                     <!-- Testimonials  -->
                     <?php include_once('includes/testimonials.php') ?>
