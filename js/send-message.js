@@ -265,4 +265,18 @@ $(document).ready(function () {
       },
     });
   });
+
+  $('#subscribe-email-form').submit(function(e){
+    e.preventDefault();
+
+    var email = $('#subscribe-email').val()
+    console.log(email)
+    if(email === '' || email === undefined){
+      toastr.error('Enter your email')
+      return
+    }
+    toastr.success('You will now be part of our first customers to receive our products and services')
+    $("#subscribe-email")[0].reset();
+
+  })
 });
