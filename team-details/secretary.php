@@ -71,15 +71,9 @@
                                 <div class="swiper-container">
                                   <div class="swiper-wrapper lightgallery">
                                     <div class="swiper-slide hov_zoom">
-                                      <img src="/images/team/ceo.jpg" alt="">
-                                      <a href="/images/team/ceo.jpg" class="box-media-zoom   popup-image">
+                                      <img src="/images/team/mai-secretary.jpg" alt="">
+                                      <a href="/images/team/mai-secretary.jpg" class="box-media-zoom   popup-image">
                                         <i class="fa fa-eye"></i>
-                                      </a>
-                                    </div>
-                                    <div class="swiper-slide hov_zoom">
-                                      <img src="/images/team/ceo2.jpg" alt="">
-                                      <a href="/images/team/ceo2.jpg" class="box-media-zoom   popup-image">
-                                        <i class="fal fa-eye"></i>
                                       </a>
                                     </div>
                                   </div>
@@ -114,7 +108,7 @@
                               <div class="boxed-content">
                                 <!--boxed-content-title-->
                                 <div class="boxed-content-title">
-                                  <h3>Connect with the Administrator</h3>
+                                  <h3>Connect with the Secretary</h3>
                                 </div>
                                 <!--boxed-content-title end-->
                                 <!--boxed-content-item-->
@@ -182,7 +176,7 @@
                               <li>
                                 <div class="recent-post-img">
                                   <a href="/team-details/ceo">
-                                    <img src="/images/all/11.jpg" alt="">
+                                    <img src="/images/team/ceo3.jpg" alt="">
                                   </a>
                                 </div>
                                 <div class="recent-post-content">
@@ -197,7 +191,7 @@
                               <li>
                                 <div class="recent-post-img">
                                   <a href="/team-details/administrator">
-                                    <img src="/images/all/11.jpg" alt="">
+                                    <img src="/images/team/robert-admin.jpg" alt="">
                                   </a>
                                 </div>
                                 <div class="recent-post-content">
@@ -212,7 +206,7 @@
                               <li>
                                 <div class="recent-post-img">
                                   <a href="/team-details/administrative-assistant">
-                                    <img src="/images/all/1.jpg" alt="">
+                                    <img src="/images/team/alice-admin-asst.jpg" alt="">
                                   </a>
                                 </div>
                                 <div class="recent-post-content">
@@ -227,7 +221,7 @@
                               <li>
                                 <div class="recent-post-img">
                                   <a href="/team-details/surveyor">
-                                    <img src="/images/all/15.jpg" alt="">
+                                    <img src="/images/team/mickey-surveyor-2.jpg" alt="">
                                   </a>
                                 </div>
                                 <div class="recent-post-content">

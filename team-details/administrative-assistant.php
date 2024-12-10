@@ -71,8 +71,8 @@
                                 <div class="swiper-container">
                                   <div class="swiper-wrapper lightgallery">
                                     <div class="swiper-slide hov_zoom">
-                                      <img src="/images/team/admin.jpg" alt="">
-                                      <a href="/images/team/admin.jpg" class="box-media-zoom   popup-image">
+                                      <img src="/images/team/alice-admin-asst.jpg" alt="">
+                                      <a href="/images/team/alice-admin-asst.jpg" class="box-media-zoom   popup-image">
                                         <i class="fa fa-eye"></i>
                                       </a>
                                     </div>
@@ -176,7 +176,7 @@
                               <li>
                                 <div class="recent-post-img">
                                   <a href="/team-details/ceo">
-                                    <img src="/images/all/11.jpg" alt="">
+                                    <img src="/images/team/ceo.jpg" alt="">
                                   </a>
                                 </div>
                                 <div class="recent-post-content">
@@ -191,7 +191,7 @@
                               <li>
                                 <div class="recent-post-img">
                                   <a href="/team-details/administrator">
-                                    <img src="/images/all/11.jpg" alt="">
+                                    <img src="/images/team/robert-admin-2.jpg" alt="">
                                   </a>
                                 </div>
                                 <div class="recent-post-content">
@@ -206,7 +206,7 @@
                               <li>
                                 <div class="recent-post-img">
                                   <a href="/team-details/surveyor">
-                                    <img src="/images/all/15.jpg" alt="">
+                                    <img src="/images/team/mickey-surveyor-2.jpg" alt="">
                                   </a>
                                 </div>
                                 <div class="recent-post-content">
@@ -221,7 +221,7 @@
                               <li>
                                 <div class="recent-post-img">
                                   <a href="/team-details/secretary">
-                                    <img src="/images/all/15.jpg" alt="">
+                                    <img src="/images/team/mai-secretary.jpg" alt="">
                                   </a>
                                 </div>
                                 <div class="recent-post-content">

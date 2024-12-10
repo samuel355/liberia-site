@@ -64,7 +64,7 @@
                     <div class="geodir-category-listing">
                       <div class="geodir-category-img">
                         <a href="/team-details/ceo" class="geodir-category-img_item">
-                          <div class="bg" data-bg="images/all/1.jpg"></div>
+                          <div class="bg" data-bg="/images/team/ceo3.jpg"></div>
                           <div class="overlay"></div>
                         </a>
                       </div>
@@ -88,7 +88,7 @@
                     <div class="geodir-category-listing">
                       <div class="geodir-category-img">
                         <a href="/team-details/administrator" class="geodir-category-img_item">
-                          <div class="bg" data-bg="images/all/1.jpg"></div>
+                          <div class="bg" data-bg="/images/team/robert-admin.jpg"></div>
                           <div class="overlay"></div>
                         </a>
                       </div>
@@ -111,7 +111,7 @@
                     <div class="geodir-category-listing">
                       <div class="geodir-category-img">
                         <a href="/team-details/administrative-assistant" class="geodir-category-img_item">
-                          <div class="bg" data-bg="images/all/1.jpg"></div>
+                          <div class="bg" data-bg="/images/team/alice-admin-asst.jpg"></div>
                           <div class="overlay"></div>
                         </a>
                       </div>
@@ -134,7 +134,7 @@
                     <div class="geodir-category-listing">
                       <div class="geodir-category-img">
                         <a href="/team-details/surveyor" class="geodir-category-img_item">
-                          <div class="bg" data-bg="images/all/1.jpg"></div>
+                          <div class="bg" data-bg="/images/team/mickey-surveyor-2.jpg"></div>
                           <div class="overlay"></div>
                         </a>
                       </div>
@@ -157,7 +157,7 @@
                     <div class="geodir-category-listing">
                       <div class="geodir-category-img">
                         <a href="/team-details/secretary" class="geodir-category-img_item">
-                          <div class="bg" data-bg="images/all/1.jpg"></div>
+                          <div class="bg" data-bg="/images/team/mai-secretary.jpg"></div>
                           <div class="overlay"></div>
                         </a>
                       </div>

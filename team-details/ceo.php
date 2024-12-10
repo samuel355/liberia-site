@@ -82,6 +82,12 @@
                                                                                 <i class="fal fa-eye"></i>
                                                                             </a>
                                                                         </div>
+                                                                        <div class="swiper-slide hov_zoom">
+                                                                            <img src="/images/team/ceo3.jpg" alt="">
+                                                                            <a href="/images/team/ceo3.jpg" class="box-media-zoom   popup-image">
+                                                                                <i class="fal fa-eye"></i>
+                                                                            </a>
+                                                                        </div>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -100,14 +106,14 @@
                                                     <div class="text-block post-single_tb">
                                                         <div class="text-block-container">
                                                             <p>
-                                                            Albert D. Giah Jr. serves as the CEO of Contours Limited, a leading corporation in Liberia specializing in land surveying, mapping, geo-informatics, and construction technical services. Under his leadership, the company has been a pioneer in delivering professional surveying and geo-spatial solutions to both public and private sectors, addressing critical spatial problems with innovative technologies and services.
+                                                                Albert D. Giah Jr. serves as the CEO of Contours Limited, a leading corporation in Liberia specializing in land surveying, mapping, geo-informatics, and construction technical services. Under his leadership, the company has been a pioneer in delivering professional surveying and geo-spatial solutions to both public and private sectors, addressing critical spatial problems with innovative technologies and services.
                                                             </p>
-                                                            
+
                                                             <p>
                                                                 Albert is dedicated to advancing the geo-spatial industry by providing cost-efficient access to cutting-edge geo-information technologies. His strategic oversight ensures that Contours Limited remains at the forefront of the field by combining technical expertise, modern equipment, and project management know-how. This has allowed the company to effectively handle projects of varying complexity while adhering to high professional standards.
                                                             </p>
                                                             <p>
-                                                            Albert is instrumental in realizing the company’s vision of making geo-information technology accessible and delivering value through innovative solutions and professional excellence.
+                                                                Albert is instrumental in realizing the company’s vision of making geo-information technology accessible and delivering value through innovative solutions and professional excellence.
                                                             </p>
                                                         </div>
                                                         <div class="tagcloud_single">
@@ -183,7 +189,7 @@
                                                             <li>
                                                                 <div class="recent-post-img">
                                                                     <a href="/team-details/administrator">
-                                                                        <img src="/images/all/11.jpg" alt="">
+                                                                        <img src="/images/team/robert-admin.jpg" alt="">
                                                                     </a>
                                                                 </div>
                                                                 <div class="recent-post-content">
@@ -198,7 +204,7 @@
                                                             <li>
                                                                 <div class="recent-post-img">
                                                                     <a href="/team-details/administrative-assistant">
-                                                                        <img src="/images/all/1.jpg" alt="">
+                                                                        <img src="/images/team/alice-admin-asst.jpg" alt="">
                                                                     </a>
                                                                 </div>
                                                                 <div class="recent-post-content">
@@ -213,7 +219,7 @@
                                                             <li>
                                                                 <div class="recent-post-img">
                                                                     <a href="/team-details/surveyor">
-                                                                        <img src="/images/all/15.jpg" alt="">
+                                                                        <img src="/images/team/mickey-surveyor.jpg" alt="">
                                                                     </a>
                                                                 </div>
                                                                 <div class="recent-post-content">
@@ -228,7 +234,7 @@
                                                             <li>
                                                                 <div class="recent-post-img">
                                                                     <a href="/team-details/secretary">
-                                                                        <img src="/images/all/15.jpg" alt="">
+                                                                        <img src="/images/team/mai-secretary.jpg" alt="">
                                                                     </a>
                                                                 </div>
                                                                 <div class="recent-post-content">

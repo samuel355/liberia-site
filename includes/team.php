@@ -25,7 +25,7 @@
               <div class="agent-card-item">
                 <div class="agent-card-item_media">
                   <div class="agent-card-item_media-wrap">
-                    <img src="images/team/ceo2.jpg" alt="" class="respimg">
+                    <img src="images/team/ceo3.jpg" alt="" class="respimg">
                     <div class="overlay"></div>
                     <div class="acim-wrap">
                       <ul>
@@ -58,7 +58,7 @@
               <div class="agent-card-item">
                 <div class="agent-card-item_media">
                   <div class="agent-card-item_media-wrap">
-                    <img src="images/agents/1.jpg" alt="" class="respimg">
+                    <img src="/images/team/robert-admin-2.jpg" alt="" class="respimg">
                     <div class="overlay"></div>
                     <div class="acim-wrap">
                       <ul>
@@ -91,7 +91,7 @@
               <div class="agent-card-item">
                 <div class="agent-card-item_media">
                   <div class="agent-card-item_media-wrap">
-                    <img src="images/agents/1.jpg" alt="" class="respimg">
+                    <img src="/images/team/alice-admin-asst.jpg" alt="" class="respimg">
                     <div class="overlay"></div>
                     <div class="acim-wrap">
                       <ul>
@@ -124,7 +124,7 @@
               <div class="agent-card-item">
                 <div class="agent-card-item_media">
                   <div class="agent-card-item_media-wrap">
-                    <img src="images/agents/1.jpg" alt="" class="respimg">
+                    <img src="/images/team/mickey-surveyor-2.jpg" alt="" class="respimg">
                     <div class="overlay"></div>
                     <div class="acim-wrap">
                       <ul>
@@ -157,7 +157,7 @@
               <div class="agent-card-item">
                 <div class="agent-card-item_media">
                   <div class="agent-card-item_media-wrap">
-                    <img src="images/agents/1.jpg" alt="" class="respimg">
+                    <img src="/images/team/mai-secretary.jpg" alt="" class="respimg">
                     <div class="overlay"></div>
                     <div class="acim-wrap">
                       <ul>
