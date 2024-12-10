@@ -1,4 +1,5 @@
 $(document).ready(function () {
+
   $("#enquiry-hero-form").submit(function (e) {
     e.preventDefault();
 

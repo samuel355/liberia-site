@@ -1,8 +1,8 @@
 <?php
 // $hostname = "localhost";
-// $username = "landand7_root";
-// $password = "MoneyInTheBank026@";
-// $dbname = "landand7_website";
+// $username = "contour2_root";
+// $password = "Contour@24";
+// $dbname = "contour2_main";
 
 $hostname = "localhost";
 $username = "root";

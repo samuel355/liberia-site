@@ -61,7 +61,7 @@ $pageFile = basename($_SERVER['PHP_SELF']);
                 <div class="col-lg-12">
                   <div class="cs-intputwrap">
                     <i class="fa-light fa-phone"></i>
-                    <input id="phone-ci" name="phone" type="text" placeholder="Contact" value="">
+                    <input onkeypress="handleInput(event)" id="phone-ci" name="phone" type="text" placeholder="Contact" value="">
                     <small class="phone-error-ci"></small>
                   </div>
                 </div>

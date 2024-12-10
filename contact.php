@@ -159,7 +159,7 @@
                                                                 <div class="col-sm-6">
                                                                     <div class="cs-intputwrap">
                                                                         <i class="fa-light fa-phone"></i>
-                                                                        <input type="text" name="phone" id="phone-cp" placeholder="Contact" value="">
+                                                                        <input onkeypress="handleInput(event)" type="text" name="phone" id="phone-cp" placeholder="Contact" value="">
                                                                         <small class="phone-error-cp"></small>
                                                                     </div>
                                                                 </div>

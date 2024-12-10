@@ -56,4 +56,13 @@ switch ($pageFile) {
   <link type="text/css" rel="stylesheet" href="/css/style.css">
   <link rel="shortcut icon" href="/images/logo/contours_logo.svg">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
+  <script>
+    function handleInput() {
+      const charCode = event.which ? event.which : event.keyCode;
+      // Prevent input if the key is not a number (0-9)
+      if (charCode < 48 || charCode > 57) {
+        event.preventDefault();
+      }
+    };
+  </script>
 </head>

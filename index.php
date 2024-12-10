@@ -109,7 +109,7 @@
                             <div class="col-lg-12">
                               <div class="cs-intputwrap">
                                 <i class="fa-light fa-phone"></i>
-                                <input id="phone-hr" name="phone" type="text" placeholder="Contact" value="">
+                                <input onkeypress="handleInput(event)" id="phone-hr" name="phone" type="text" placeholder="Contact" value="">
                                 <small class="phone-error-hr"></small>
                               </div>
                             </div>
