@@ -49,7 +49,7 @@ switch ($pageFile) {
   <meta charset="UTF-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="description"
-    content="Welcome to ..., your one-stop solution for real estate services. Whether you’re buying, selling, renting, or investing, our agency is committed to meeting your needs with excellence. ">
+    content="Welcome to Consult Ltd, your one-stop solution for real estate services. Whether you’re buying, selling, renting, or investing, our agency is committed to meeting your needs with excellence. ">
   <meta name="developer" content="Samuel Osei Adu - addsam.dev@outlook.com">
   <title> <?php echo htmlspecialchars($pageTitle) ?> </title>
   <link type="text/css" rel="stylesheet" href="/css/plugins.css">

@@ -31,26 +31,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     if ($stmt->execute()) {
       echo 'Success';
 
-      $to = 'enquiries@contourslimited.com';
+      $to = 'enquiries@contourslimited.com, contoursltd@gmail.com';
       $headers = "MIME-Version: 1.0\r\n";
       $headers .= "Content-type: text/html; charset=utf-8\r\n";
       $headers .= "From: Possible client <$email>\r\n";
       $headers .= "Reply-To: $email\r\n";
 
       $subject = "Message from potential client";
-      // $messageSend = "
-      //     <html>
-      //         <body>
-      //             <h4>Message from a potential client</h4>
-      //             <p><strong>Full Name:</strong> $fullname</p>
-      //             <p><strong>Email:</strong> $email</p>
-      //             <p><strong>Phone:</strong> $phone</p>
-      //             <p><strong>Service:</strong> $service</p>
-      //             <h4>Message</h4>
-      //             <p>$message</p>
-      //         </body>
-      //     </html>
-      // ";
 
       $messageSend = "
         <!DOCTYPE html>
